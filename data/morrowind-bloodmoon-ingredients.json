@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Bear Pelt",
+    "location": null,
+    "value": "1.0",
+    "weight": "2",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Strength",
+      "Resist Common Disease",
+      "Night-Eye"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Strength",
+    "effect3": "Resist Common Disease",
+    "effect4": "Night-Eye",
+    "id": "ingred_bear_pelt"
+  },
+  {
+    "name": "Blood of an Innocent",
+    "location": null,
+    "value": "0.1",
+    "weight": "25",
+    "effects": [
+      "Drain Speed",
+      "Light",
+      "Cure Common Disease",
+      "Drain Magicka"
+    ],
+    "effect1": "Drain Speed",
+    "effect2": "Light",
+    "effect3": "Cure Common Disease",
+    "effect4": "Drain Magicka",
+    "id": "ingred_blood_innocent_unique"
+  },
+  {
+    "name": "Bristleback Leather",
+    "location": null,
+    "value": "1.0",
+    "weight": "2",
+    "effects": [
+      "Blind",
+      "Frost Damage",
+      "Resist Frost",
+      "Recall"
+    ],
+    "effect1": "Blind",
+    "effect2": "Frost Damage",
+    "effect3": "Resist Frost",
+    "effect4": "Recall",
+    "id": "ingred_boar_leather"
+  },
+  {
+    "name": "Flaming Eye of the Lightkeeper",
+    "location": null,
+    "value": "1.0",
+    "weight": "15",
+    "effects": [
+      "Resist Frost",
+      "Night-Eye",
+      "Drain Magicka",
+      "Fortify Strength"
+    ],
+    "effect1": "Resist Frost",
+    "effect2": "Night-Eye",
+    "effect3": "Drain Magicka",
+    "effect4": "Fortify Strength",
+    "id": "ingred_eyeball_unique"
+  },
+  {
+    "name": "Grahl Eyeball",
+    "location": null,
+    "value": "1.0",
+    "weight": "15",
+    "effects": [
+      "Resist Frost",
+      "Night-Eye",
+      "Drain Magicka",
+      "Fortify Strength"
+    ],
+    "effect1": "Resist Frost",
+    "effect2": "Night-Eye",
+    "effect3": "Drain Magicka",
+    "effect4": "Fortify Strength",
+    "id": "ingred_eyeball"
+  },
+  {
+    "name": "Gravetar",
+    "location": null,
+    "value": "0.1",
+    "weight": "5",
+    "effects": [
+      "Resist Frost",
+      "Drain Health",
+      "Fortify Fatigue",
+      "Drain Luck"
+    ],
+    "effect1": "Resist Frost",
+    "effect2": "Drain Health",
+    "effect3": "Fortify Fatigue",
+    "effect4": "Drain Luck",
+    "id": "ingred_gravetar_01"
+  },
+  {
+    "name": "Heart of an Innocent",
+    "location": null,
+    "value": "1.0",
+    "weight": "10",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Endurance",
+      "Drain Agility",
+      "Night-Eye"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": "Fortify Endurance",
+    "effect3": "Drain Agility",
+    "effect4": "Night-Eye",
+    "id": "ingred_innocent_heart"
+  },
+  {
+    "name": "Heart of the Udyrfrykte",
+    "location": null,
+    "value": "5.0",
+    "weight": "300",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Endurance",
+      "Drain Agility",
+      "Night-Eye"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": "Fortify Endurance",
+    "effect3": "Drain Agility",
+    "effect4": "Night-Eye",
+    "id": "ingred_udyrfrykte_heart"
+  },
+  {
+    "name": "Heart of the Wolf",
+    "location": null,
+    "value": "1.0",
+    "weight": "100",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Endurance",
+      "Drain Agility",
+      "Night-Eye"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": "Fortify Endurance",
+    "effect3": "Drain Agility",
+    "effect4": "Night-Eye",
+    "id": "ingred_wolf_heart"
+  },
+  {
+    "name": "Heartwood",
+    "location": null,
+    "value": "1.0",
+    "weight": "200",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Agility",
+      "Drain Strength",
+      "Weakness to Fire"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": "Fortify Agility",
+    "effect3": "Drain Strength",
+    "effect4": "Weakness to Fire",
+    "id": "ingred_heartwood_01"
+  },
+  {
+    "name": "Holly Berries",
+    "location": null,
+    "value": "0.1",
+    "weight": "5",
+    "effects": [
+      "Resist Frost",
+      "Resist Poison",
+      "Frost Damage",
+      "Weakness to Fire"
+    ],
+    "effect1": "Resist Frost",
+    "effect2": "Resist Poison",
+    "effect3": "Frost Damage",
+    "effect4": "Weakness to Fire",
+    "id": "ingred_holly_01"
+  },
+  {
+    "name": "Horker Tusk",
+    "location": null,
+    "value": "1.0",
+    "weight": "5",
+    "effects": [
+      "Drain Alteration",
+      "Fortify Intelligence",
+      "Fortify Maximum Magicka",
+      "Detect Animal"
+    ],
+    "effect1": "Drain Alteration",
+    "effect2": "Fortify Intelligence",
+    "effect3": "Fortify Maximum Magicka",
+    "effect4": "Detect Animal",
+    "id": "ingred_horker_tusk_01"
+  },
+  {
+    "name": "Pinetear",
+    "location": null,
+    "value": "0.2",
+    "weight": "50",
+    "effects": [
+      "Fortify Magicka",
+      "Restore Health",
+      "Drain Agility",
+      "Drain Endurance"
+    ],
+    "effect1": "Fortify Magicka",
+    "effect2": "Restore Health",
+    "effect3": "Drain Agility",
+    "effect4": "Drain Endurance",
+    "id": "ingred_emerald_pinetear_01"
+  },
+  {
+    "name": "Raw Stalhrim",
+    "location": null,
+    "value": "0.5",
+    "weight": "300",
+    "effects": [
+      "Resist Frost",
+      "Frost Damage",
+      "Paralyze",
+      "Restore Health"
+    ],
+    "effect1": "Resist Frost",
+    "effect2": "Frost Damage",
+    "effect3": "Paralyze",
+    "effect4": "Restore Health",
+    "id": "ingred_raw_Stalhrim_01"
+  },
+  {
+    "name": "Ripened Belladonna Berries",
+    "location": null,
+    "value": "0.1",
+    "weight": "5",
+    "effects": [
+      "Resist Magicka",
+      "Restore Magicka",
+      "Fortify Magicka",
+      "Drain Magicka"
+    ],
+    "effect1": "Resist Magicka",
+    "effect2": "Restore Magicka",
+    "effect3": "Fortify Magicka",
+    "effect4": "Drain Magicka",
+    "id": "ingred_belladonna_01"
+  },
+  {
+    "name": "Snow Bear Pelt",
+    "location": null,
+    "value": "1.0",
+    "weight": "2",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Strength",
+      "Resist Common Disease",
+      "Night-Eye"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Strength",
+    "effect3": "Resist Common Disease",
+    "effect4": "Night-Eye",
+    "id": "ingred_snowbear_pelt_unique"
+  },
+  {
+    "name": "Snow Wolf Pelt",
+    "location": null,
+    "value": "1.0",
+    "weight": "2",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Strength",
+      "Resist Common Disease",
+      "Night-Eye"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Strength",
+    "effect3": "Resist Common Disease",
+    "effect4": "Night-Eye",
+    "id": "ingred_snowwolf_pelt_unique"
+  },
+  {
+    "name": "Unripened Belladonna Berries",
+    "location": null,
+    "value": "0.1",
+    "weight": "5",
+    "effects": [
+      "Resist Magicka",
+      "Restore Magicka",
+      "Fortify Magicka",
+      "Drain Magicka"
+    ],
+    "effect1": "Resist Magicka",
+    "effect2": "Restore Magicka",
+    "effect3": "Fortify Magicka",
+    "effect4": "Drain Magicka",
+    "id": "ingred_belladonna_02"
+  },
+  {
+    "name": "Wolf Pelt",
+    "location": null,
+    "value": "1.0",
+    "weight": "2",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Strength",
+      "Resist Common Disease",
+      "Night-Eye"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Strength",
+    "effect3": "Resist Common Disease",
+    "effect4": "Night-Eye",
+    "id": "ingred_wolf_pelt"
+  },
+  {
+    "name": "Wolfsbane Petals",
+    "location": null,
+    "value": "0.1",
+    "weight": "5",
+    "effects": [
+      "Restore Intelligence",
+      "Invisibility",
+      "Drain Endurance",
+      "Drain Magicka"
+    ],
+    "effect1": "Restore Intelligence",
+    "effect2": "Invisibility",
+    "effect3": "Drain Endurance",
+    "effect4": "Drain Magicka",
+    "id": "ingred_wolfsbane_01"
+  }
+]

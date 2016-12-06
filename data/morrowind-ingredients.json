@@ -1,0 +1,1459 @@
+[
+  {
+    "name": "Alit Hide ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "5 ",
+    "effects": [
+      "Drain Intelligence",
+      "Resist Poison",
+      "Telekinesis",
+      "Detect Animal"
+    ],
+    "effect1": "Drain Intelligence",
+    "effect2": "Resist Poison",
+    "effect3": "Telekinesis",
+    "effect4": "Detect Animal",
+    "id": "ingred_alit_hide_01 "
+  },
+  {
+    "name": "Ampoule Pod ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "2 ",
+    "effects": [
+      "Water Walking",
+      "Paralyze",
+      "Detect Animal",
+      "Drain Willpower"
+    ],
+    "effect1": "Water Walking",
+    "effect2": "Paralyze",
+    "effect3": "Detect Animal",
+    "effect4": "Drain Willpower",
+    "id": "ingred_bc_ampoule_pod "
+  },
+  {
+    "name": "Ash Salts ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "25 ",
+    "effects": [
+      "Drain Agility",
+      "Resist Magicka",
+      "Cure Blight Disease",
+      "Resist Magicka"
+    ],
+    "effect1": "Drain Agility",
+    "effect2": "Resist Magicka",
+    "effect3": "Cure Blight Disease",
+    "effect4": "Resist Magicka",
+    "id": "ingred_ash_salts_01 "
+  },
+  {
+    "name": "Ash Yam ",
+    "location": null,
+    "value": "0.5 ",
+    "weight": "1 ",
+    "effects": [
+      "Fortify Intelligence",
+      "Fortify Strength",
+      "Resist Common Disease",
+      "Detect Key"
+    ],
+    "effect1": "Fortify Intelligence",
+    "effect2": "Fortify Strength",
+    "effect3": "Resist Common Disease",
+    "effect4": "Detect Key",
+    "id": "ingred_ash_yam_01 "
+  },
+  {
+    "name": "Bittergreen Petals ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "5 ",
+    "effects": [
+      "Restore Intelligence",
+      "Invisibility",
+      "Drain Endurance",
+      "Drain Magicka"
+    ],
+    "effect1": "Restore Intelligence",
+    "effect2": "Invisibility",
+    "effect3": "Drain Endurance",
+    "effect4": "Drain Magicka",
+    "id": "ingred_bittergreen_petals_01 "
+  },
+  {
+    "name": "Black Anther ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "2 ",
+    "effects": [
+      "Drain Agility",
+      "Resist Fire",
+      "Drain Endurance",
+      "Light"
+    ],
+    "effect1": "Drain Agility",
+    "effect2": "Resist Fire",
+    "effect3": "Drain Endurance",
+    "effect4": "Light",
+    "id": "ingred_black_anther_01 "
+  },
+  {
+    "name": "Black Lichen ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "2 ",
+    "effects": [
+      "Drain Strength",
+      "Resist Frost",
+      "Drain Speed",
+      "Cure Poison"
+    ],
+    "effect1": "Drain Strength",
+    "effect2": "Resist Frost",
+    "effect3": "Drain Speed",
+    "effect4": "Cure Poison",
+    "id": "ingred_black_lichen_01 "
+  },
+  {
+    "name": "Bloat ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "5 ",
+    "effects": [
+      "Drain Magicka",
+      "Fortify Intelligence",
+      "Fortify Willpower",
+      "Detect Animal"
+    ],
+    "effect1": "Drain Magicka",
+    "effect2": "Fortify Intelligence",
+    "effect3": "Fortify Willpower",
+    "effect4": "Detect Animal",
+    "id": "ingred_bloat_01 "
+  },
+  {
+    "name": "Bonemeal ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "2 ",
+    "effects": [
+      "Restore Agility",
+      "Telekinesis",
+      "Drain Fatigue",
+      "Drain Personality"
+    ],
+    "effect1": "Restore Agility",
+    "effect2": "Telekinesis",
+    "effect3": "Drain Fatigue",
+    "effect4": "Drain Personality",
+    "id": "ingred_bonemeal_01 "
+  },
+  {
+    "name": "Bread ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Fatigue"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null,
+    "id": "ingred_bread_01ingred_bread_01_UNI2 "
+  },
+  {
+    "name": "Bungler's Bane ",
+    "location": null,
+    "value": "0.5 ",
+    "weight": "1 ",
+    "effects": [
+      "Drain Speed",
+      "Drain Endurance",
+      "Dispel",
+      "Drain Strength"
+    ],
+    "effect1": "Drain Speed",
+    "effect2": "Drain Endurance",
+    "effect3": "Dispel",
+    "effect4": "Drain Strength",
+    "id": "ingred_bc_bungler's_bane "
+  },
+  {
+    "name": "Chokeweed ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Drain Luck",
+      "Restore Fatigue",
+      "Cure Common Disease",
+      "Drain Willpower"
+    ],
+    "effect1": "Drain Luck",
+    "effect2": "Restore Fatigue",
+    "effect3": "Cure Common Disease",
+    "effect4": "Drain Willpower",
+    "id": "ingred_chokeweed_01 "
+  },
+  {
+    "name": "Coda Flower ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "23 ",
+    "effects": [
+      "Drain Personality",
+      "Levitate",
+      "Drain Intelligence",
+      "Drain Health"
+    ],
+    "effect1": "Drain Personality",
+    "effect2": "Levitate",
+    "effect3": "Drain Intelligence",
+    "effect4": "Drain Health",
+    "id": "ingred_bc_coda_flower "
+  },
+  {
+    "name": "Comberry ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "2 ",
+    "effects": [
+      "Drain Fatigue",
+      "Restore Magicka",
+      "Fire Shield",
+      "Reflect"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Restore Magicka",
+    "effect3": "Fire Shield",
+    "effect4": "Reflect",
+    "id": "ingred_comberry_01 "
+  },
+  {
+    "name": "Corkbulb Root ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "5 ",
+    "effects": [
+      "Cure Paralyzation",
+      "Restore Health",
+      "Lightning Shield",
+      "Fortify Luck"
+    ],
+    "effect1": "Cure Paralyzation",
+    "effect2": "Restore Health",
+    "effect3": "Lightning Shield",
+    "effect4": "Fortify Luck",
+    "id": "ingred_corkbulb_root_01 "
+  },
+  {
+    "name": "Corprus Weepings ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "50 ",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Luck",
+      "Drain Willpower",
+      "Restore Health"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Luck",
+    "effect3": "Drain Willpower",
+    "effect4": "Restore Health",
+    "id": "ingred_corprus_weepings_01 "
+  },
+  {
+    "name": "Crab Meat ",
+    "location": null,
+    "value": "0.5 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Fatigue",
+      "Resist Shock",
+      "Lightning Shield",
+      "Restore Luck"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Resist Shock",
+    "effect3": "Lightning Shield",
+    "effect4": "Restore Luck",
+    "id": "ingred_crab_meat_01 "
+  },
+  {
+    "name": "Daedra Skin ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "200 ",
+    "effects": [
+      "Fortify Strength",
+      "Cure Common Disease",
+      "Paralyze",
+      "Swift Swim"
+    ],
+    "effect1": "Fortify Strength",
+    "effect2": "Cure Common Disease",
+    "effect3": "Paralyze",
+    "effect4": "Swift Swim",
+    "id": "ingred_daedra_skin_01 "
+  },
+  {
+    "name": "Daedra's Heart ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "200 ",
+    "effects": [
+      "Restore Magicka",
+      "Fortify Endurance",
+      "Drain Agility",
+      "Night-Eye"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": "Fortify Endurance",
+    "effect3": "Drain Agility",
+    "effect4": "Night-Eye",
+    "id": "ingred_daedras_heart_01ingred_cursed_daedras_heart_01 "
+  },
+  {
+    "name": "Diamond ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "250 ",
+    "effects": [
+      "Drain Agility",
+      "Invisibility",
+      "Reflect",
+      "Detect Key"
+    ],
+    "effect1": "Drain Agility",
+    "effect2": "Invisibility",
+    "effect3": "Reflect",
+    "effect4": "Detect Key",
+    "id": "ingred_diamond_01ingred_Dae_cursed_diamond_01 "
+  },
+  {
+    "name": "Dreugh Wax ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "100 ",
+    "effects": [
+      "Fortify Strength",
+      "Restore Strength",
+      "Drain Luck",
+      "Drain Willpower"
+    ],
+    "effect1": "Fortify Strength",
+    "effect2": "Restore Strength",
+    "effect3": "Drain Luck",
+    "effect4": "Drain Willpower",
+    "id": "ingred_dreugh_wax_01 "
+  },
+  {
+    "name": "Ectoplasm ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "10 ",
+    "effects": [
+      "Fortify Agility",
+      "Detect Animal",
+      "Drain Strength",
+      "Drain Health"
+    ],
+    "effect1": "Fortify Agility",
+    "effect2": "Detect Animal",
+    "effect3": "Drain Strength",
+    "effect4": "Drain Health",
+    "id": "ingred_ectoplasm_01 "
+  },
+  {
+    "name": "Emerald ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "150 ",
+    "effects": [
+      "Fortify Magicka",
+      "Restore Health",
+      "Drain Agility",
+      "Drain Endurance"
+    ],
+    "effect1": "Fortify Magicka",
+    "effect2": "Restore Health",
+    "effect3": "Drain Agility",
+    "effect4": "Drain Endurance",
+    "id": "ingred_emerald_01ingred_Dae_cursed_emerald_01 "
+  },
+  {
+    "name": "Fire Petal ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "2 ",
+    "effects": [
+      "Resist Fire",
+      "Drain Health",
+      "Spell Absorption",
+      "Paralyze"
+    ],
+    "effect1": "Resist Fire",
+    "effect2": "Drain Health",
+    "effect3": "Spell Absorption",
+    "effect4": "Paralyze",
+    "id": "ingred_fire_petal_01 "
+  },
+  {
+    "name": "Fire Salts ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "100 ",
+    "effects": [
+      "Drain Health",
+      "Fortify Agility",
+      "Resist Frost",
+      "Fire Shield"
+    ],
+    "effect1": "Drain Health",
+    "effect2": "Fortify Agility",
+    "effect3": "Resist Frost",
+    "effect4": "Fire Shield",
+    "id": "ingred_fire_salts_01 "
+  },
+  {
+    "name": "Frost Salts ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "75 ",
+    "effects": [
+      "Drain Speed",
+      "Restore Magicka",
+      "Frost Shield",
+      "Resist Fire"
+    ],
+    "effect1": "Drain Speed",
+    "effect2": "Restore Magicka",
+    "effect3": "Frost Shield",
+    "effect4": "Resist Fire",
+    "id": "ingred_frost_salts_01 "
+  },
+  {
+    "name": "Ghoul Heart ",
+    "location": null,
+    "value": "0.5 ",
+    "weight": "150 ",
+    "effects": [
+      "Paralyze",
+      "Cure Poison",
+      "Fortify Attack"
+    ],
+    "effect1": "Paralyze",
+    "effect2": "Cure Poison",
+    "effect3": "Fortify Attack",
+    "effect4": null,
+    "id": "ingred_ghoul_heart_01 "
+  },
+  {
+    "name": "Girith's Guar Hide ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "5 ",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Endurance",
+      "Restore Personality",
+      "Fortify Luck"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Endurance",
+    "effect3": "Restore Personality",
+    "effect4": "Fortify Luck",
+    "id": "ingred_guar_hide_girith "
+  },
+  {
+    "name": "Gold Kanet ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "5 ",
+    "effects": [
+      "Drain Health",
+      "Burden",
+      "Drain Luck",
+      "Restore Strength"
+    ],
+    "effect1": "Drain Health",
+    "effect2": "Burden",
+    "effect3": "Drain Luck",
+    "effect4": "Restore Strength",
+    "id": "ingred_gold_kanet_01 "
+  },
+  {
+    "name": "Gravedust ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Drain Intelligence",
+      "Cure Common Disease",
+      "Drain Magicka",
+      "Restore Endurance"
+    ],
+    "effect1": "Drain Intelligence",
+    "effect2": "Cure Common Disease",
+    "effect3": "Drain Magicka",
+    "effect4": "Restore Endurance",
+    "id": "ingred_gravedust_01 "
+  },
+  {
+    "name": "Green Lichen ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Fortify Personality",
+      "Cure Common Disease",
+      "Drain Strength",
+      "Drain Health"
+    ],
+    "effect1": "Fortify Personality",
+    "effect2": "Cure Common Disease",
+    "effect3": "Drain Strength",
+    "effect4": "Drain Health",
+    "id": "ingred_green_lichen_01 "
+  },
+  {
+    "name": "Guar Hide ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "5 ",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Endurance",
+      "Restore Personality",
+      "Fortify Luck"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Endurance",
+    "effect3": "Restore Personality",
+    "effect4": "Fortify Luck",
+    "id": "ingred_guar_hide_01 "
+  },
+  {
+    "name": "Hackle-Lo Leaf ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "30 ",
+    "effects": [
+      "Restore Fatigue",
+      "Paralyze",
+      "Water Breathing",
+      "Restore Luck"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Paralyze",
+    "effect3": "Water Breathing",
+    "effect4": "Restore Luck",
+    "id": "ingred_hackle-lo_leaf_01 "
+  },
+  {
+    "name": "Heather ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Personality",
+      "Feather",
+      "Drain Speed",
+      "Drain Personality"
+    ],
+    "effect1": "Restore Personality",
+    "effect2": "Feather",
+    "effect3": "Drain Speed",
+    "effect4": "Drain Personality",
+    "id": "ingred_heather_01 "
+  },
+  {
+    "name": "Hound Meat ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "2 ",
+    "effects": [
+      "Restore Fatigue",
+      "Fortify Fatigue",
+      "Reflect",
+      "Detect Enchantment"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Fortify Fatigue",
+    "effect3": "Reflect",
+    "effect4": "Detect Enchantment",
+    "id": "ingred_hound_meat_01 "
+  },
+  {
+    "name": "Human Flesh ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "1 ",
+    "effects": [
+      "Fortify Health",
+      "Drain Intelligence",
+      "Drain Personality"
+    ],
+    "effect1": "Fortify Health",
+    "effect2": "Drain Intelligence",
+    "effect3": "Drain Personality",
+    "effect4": null,
+    "id": "ingred_human_meat_01 "
+  },
+  {
+    "name": "Hypha Facia ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Drain Luck",
+      "Drain Agility",
+      "Drain Fatigue",
+      "Detect Enchantment"
+    ],
+    "effect1": "Drain Luck",
+    "effect2": "Drain Agility",
+    "effect3": "Drain Fatigue",
+    "effect4": "Detect Enchantment",
+    "id": "ingred_bc_hypha_facia "
+  },
+  {
+    "name": "Kagouti Hide ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "2 ",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Speed",
+      "Resist Common Disease",
+      "Night-Eye"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Speed",
+    "effect3": "Resist Common Disease",
+    "effect4": "Night-Eye",
+    "id": "ingred_kagouti_hide_01 "
+  },
+  {
+    "name": "Kresh Fiber ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Luck",
+      "Fortify Personality",
+      "Drain Magicka",
+      "Drain Speed"
+    ],
+    "effect1": "Restore Luck",
+    "effect2": "Fortify Personality",
+    "effect3": "Drain Magicka",
+    "effect4": "Drain Speed",
+    "id": "ingred_kresh_fiber_01 "
+  },
+  {
+    "name": "Kwama Cuttle ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "2 ",
+    "effects": [
+      "Resist Poison",
+      "Drain Fatigue",
+      "Water Walking",
+      "Water Breathing"
+    ],
+    "effect1": "Resist Poison",
+    "effect2": "Drain Fatigue",
+    "effect3": "Water Walking",
+    "effect4": "Water Breathing",
+    "id": "ingred_kwama_cuttle_01 "
+  },
+  {
+    "name": "Large Corprusmeat Hunk ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "0 ",
+    "effects": [
+      "Drain Fatigue",
+      "Drain Health",
+      "Drain Magicka"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Drain Health",
+    "effect3": "Drain Magicka",
+    "effect4": null,
+    "id": "ingred_6th_corprusmeat_05 "
+  },
+  {
+    "name": "Large Kwama Egg ",
+    "location": null,
+    "value": "2.0 ",
+    "weight": "2 ",
+    "effects": [
+      "Restore Fatigue",
+      "Paralyze",
+      "Frost Shield",
+      "Fortify Health"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Paralyze",
+    "effect3": "Frost Shield",
+    "effect4": "Fortify Health",
+    "id": "food_kwama_egg_02 "
+  },
+  {
+    "name": "Large Wrapped Corprusmeat ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "0 ",
+    "effects": [
+      "Drain Fatigue",
+      "Drain Health",
+      "Drain Magicka"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Drain Health",
+    "effect3": "Drain Magicka",
+    "effect4": null,
+    "id": "ingred_6th_corprusmeat_01 "
+  },
+  {
+    "name": "Luminous Russula ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "1 ",
+    "effects": [
+      "Water Breathing",
+      "Drain Fatigue",
+      "Poison"
+    ],
+    "effect1": "Water Breathing",
+    "effect2": "Drain Fatigue",
+    "effect3": "Poison",
+    "effect4": null,
+    "id": "ingred_russula_01 "
+  },
+  {
+    "name": "Marshmerrow ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Health",
+      "Detect Enchantment",
+      "Drain Willpower",
+      "Drain Fatigue"
+    ],
+    "effect1": "Restore Health",
+    "effect2": "Detect Enchantment",
+    "effect3": "Drain Willpower",
+    "effect4": "Drain Fatigue",
+    "id": "ingred_marshmerrow_01 "
+  },
+  {
+    "name": "Marsus' Guar Hide ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "5 ",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Endurance",
+      "Restore Personality",
+      "Fortify Luck"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Endurance",
+    "effect3": "Restore Personality",
+    "effect4": "Fortify Luck",
+    "id": "ingred_guar_hide_marus "
+  },
+  {
+    "name": "Medium Corprusmeat Hunk ",
+    "location": null,
+    "value": "0.5 ",
+    "weight": "0 ",
+    "effects": [
+      "Drain Fatigue",
+      "Drain Health",
+      "Drain Magicka"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Drain Health",
+    "effect3": "Drain Magicka",
+    "effect4": null,
+    "id": "ingred_6th_corprusmeat_06 "
+  },
+  {
+    "name": "Medium Wrapped Corprusmeat ",
+    "location": null,
+    "value": "0.5 ",
+    "weight": "0 ",
+    "effects": [
+      "Drain Fatigue",
+      "Drain Health",
+      "Drain Magicka"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Drain Health",
+    "effect3": "Drain Magicka",
+    "effect4": null,
+    "id": "ingred_6th_corprusmeat_03 "
+  },
+  {
+    "name": "Meteor Slime ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "10 ",
+    "effects": [
+      "Fortify Willpower",
+      "Cure Poison",
+      "Cure Blight Disease",
+      "Restore Willpower"
+    ],
+    "effect1": "Fortify Willpower",
+    "effect2": "Cure Poison",
+    "effect3": "Cure Blight Disease",
+    "effect4": "Restore Willpower",
+    "id": "ingred_scrib_jelly_02 "
+  },
+  {
+    "name": "Moon Sugar ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "50 ",
+    "effects": [
+      "Fortify Speed",
+      "Dispel",
+      "Drain Endurance",
+      "Drain Luck"
+    ],
+    "effect1": "Fortify Speed",
+    "effect2": "Dispel",
+    "effect3": "Drain Endurance",
+    "effect4": "Drain Luck",
+    "id": "ingred_moon_sugar_01 "
+  },
+  {
+    "name": "Muck ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Drain Intelligence",
+      "Detect Key",
+      "Drain Personality",
+      "Cure Common Disease"
+    ],
+    "effect1": "Drain Intelligence",
+    "effect2": "Detect Key",
+    "effect3": "Drain Personality",
+    "effect4": "Cure Common Disease",
+    "id": "ingred_muck_01 "
+  },
+  {
+    "name": "Muffin (Morrowind) ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Fatigue"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null,
+    "id": "ingred_bread_01_UNI3 "
+  },
+  {
+    "name": "Netch Leather ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "1 ",
+    "effects": [
+      "Fortify Endurance",
+      "Fortify Intelligence",
+      "Drain Personality",
+      "Cure Paralyzation"
+    ],
+    "effect1": "Fortify Endurance",
+    "effect2": "Fortify Intelligence",
+    "effect3": "Drain Personality",
+    "effect4": "Cure Paralyzation",
+    "id": "ingred_netch_leather_01 "
+  },
+  {
+    "name": "Pearl ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "100 ",
+    "effects": [
+      "Drain Agility",
+      "Dispel",
+      "Water Breathing",
+      "Resist Common Disease"
+    ],
+    "effect1": "Drain Agility",
+    "effect2": "Dispel",
+    "effect3": "Water Breathing",
+    "effect4": "Resist Common Disease",
+    "id": "ingred_pearl_01ingred_Dae_cursed_pearl_01 "
+  },
+  {
+    "name": "Poison ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "0 ",
+    "effects": [
+      "Weakness to Poison",
+      "Damage Health",
+      "Damage Fatigue",
+      "Poison"
+    ],
+    "effect1": "Weakness to Poison",
+    "effect2": "Damage Health",
+    "effect3": "Damage Fatigue",
+    "effect4": "Poison",
+    "id": "poison_goop00 "
+  },
+  {
+    "name": "Racer Plumes ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "20 ",
+    "effects": [
+      "Drain Willpower",
+      "Levitate"
+    ],
+    "effect1": "Drain Willpower",
+    "effect2": "Levitate",
+    "effect3": null,
+    "effect4": null,
+    "id": "ingred_racer_plumes_01 "
+  },
+  {
+    "name": "Rat Meat ",
+    "location": null,
+    "value": "1.0 ",
+    "weight": "1 ",
+    "effects": [
+      "Drain Magicka",
+      "Paralyze",
+      "Cure Poison",
+      "Resist Poison"
+    ],
+    "effect1": "Drain Magicka",
+    "effect2": "Paralyze",
+    "effect3": "Cure Poison",
+    "effect4": "Resist Poison",
+    "id": "ingred_rat_meat_01 "
+  },
+  {
+    "name": "Raw Ebony ",
+    "location": null,
+    "value": "10.0 ",
+    "weight": "200 ",
+    "effects": [
+      "Drain Agility",
+      "Cure Poison",
+      "Frost Shield",
+      "Restore Speed"
+    ],
+    "effect1": "Drain Agility",
+    "effect2": "Cure Poison",
+    "effect3": "Frost Shield",
+    "effect4": "Restore Speed",
+    "id": "ingred_raw_ebony_01ingred_Dae_cursed_raw_ebony_01 "
+  },
+  {
+    "name": "Raw Glass ",
+    "location": null,
+    "value": "2.0 ",
+    "weight": "200 ",
+    "effects": [
+      "Drain Intelligence",
+      "Drain Strength",
+      "Drain Speed",
+      "Fire Shield"
+    ],
+    "effect1": "Drain Intelligence",
+    "effect2": "Drain Strength",
+    "effect3": "Drain Speed",
+    "effect4": "Fire Shield",
+    "id": "ingred_raw_glass_01ingred_raw_glass_tinos "
+  },
+  {
+    "name": "Red Lichen ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "25 ",
+    "effects": [
+      "Drain Speed",
+      "Light",
+      "Cure Common Disease",
+      "Drain Magicka"
+    ],
+    "effect1": "Drain Speed",
+    "effect2": "Light",
+    "effect3": "Cure Common Disease",
+    "effect4": "Drain Magicka",
+    "id": "ingred_red_lichen_01 "
+  },
+  {
+    "name": "Resin ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "10 ",
+    "effects": [
+      "Restore Health",
+      "Restore Speed",
+      "Burden",
+      "Resist Common Disease"
+    ],
+    "effect1": "Restore Health",
+    "effect2": "Restore Speed",
+    "effect3": "Burden",
+    "effect4": "Resist Common Disease",
+    "id": "ingred_resin_01 "
+  },
+  {
+    "name": "Roland's Tears ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "5 ",
+    "effects": [
+      "Drain Health",
+      "Burden",
+      "Drain Luck",
+      "Restore Strength"
+    ],
+    "effect1": "Drain Health",
+    "effect2": "Burden",
+    "effect3": "Drain Luck",
+    "effect4": "Restore Strength",
+    "id": "ingred_gold_kanet_unique "
+  },
+  {
+    "name": "Roobrush ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Drain Willpower",
+      "Fortify Agility",
+      "Drain Health",
+      "Cure Poison"
+    ],
+    "effect1": "Drain Willpower",
+    "effect2": "Fortify Agility",
+    "effect3": "Drain Health",
+    "effect4": "Cure Poison",
+    "id": "ingred_roobrush_01 "
+  },
+  {
+    "name": "Ruby ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "200 ",
+    "effects": [
+      "Drain Health",
+      "Feather",
+      "Restore Intelligence",
+      "Drain Agility"
+    ],
+    "effect1": "Drain Health",
+    "effect2": "Feather",
+    "effect3": "Restore Intelligence",
+    "effect4": "Drain Agility",
+    "id": "ingred_ruby_01ingred_Dae_cursed_ruby_01 "
+  },
+  {
+    "name": "Saltrice ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Fatigue",
+      "Fortify Magicka",
+      "Drain Strength",
+      "Restore Health"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Fortify Magicka",
+    "effect3": "Drain Strength",
+    "effect4": "Restore Health",
+    "id": "ingred_saltrice_01 "
+  },
+  {
+    "name": "Scales ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "2 ",
+    "effects": [
+      "Drain Personality",
+      "Water Walking",
+      "Restore Endurance",
+      "Swift Swim"
+    ],
+    "effect1": "Drain Personality",
+    "effect2": "Water Walking",
+    "effect3": "Restore Endurance",
+    "effect4": "Swift Swim",
+    "id": "ingred_scales_01 "
+  },
+  {
+    "name": "Scamp Skin ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "10 ",
+    "effects": [
+      "Drain Magicka",
+      "Cure Paralyzation",
+      "Restore Personality",
+      "Restore Strength"
+    ],
+    "effect1": "Drain Magicka",
+    "effect2": "Cure Paralyzation",
+    "effect3": "Restore Personality",
+    "effect4": "Restore Strength",
+    "id": "ingred_scamp_skin_01 "
+  },
+  {
+    "name": "Scathecraw ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "2 ",
+    "effects": [
+      "Drain Strength",
+      "Cure Poison",
+      "Drain Health",
+      "Restore Willpower"
+    ],
+    "effect1": "Drain Strength",
+    "effect2": "Cure Poison",
+    "effect3": "Drain Health",
+    "effect4": "Restore Willpower",
+    "id": "ingred_scathecraw_01 "
+  },
+  {
+    "name": "Scrap Metal ",
+    "location": null,
+    "value": "10.0 ",
+    "weight": "20 ",
+    "effects": [
+      "Drain Health",
+      "Lightning Shield",
+      "Resist Shock",
+      "Restore Intelligence"
+    ],
+    "effect1": "Drain Health",
+    "effect2": "Lightning Shield",
+    "effect3": "Resist Shock",
+    "effect4": "Restore Intelligence",
+    "id": "ingred_scrap_metal_01 "
+  },
+  {
+    "name": "Scrib Jelly ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "10 ",
+    "effects": [
+      "Fortify Willpower",
+      "Cure Poison",
+      "Cure Blight Disease",
+      "Restore Willpower"
+    ],
+    "effect1": "Fortify Willpower",
+    "effect2": "Cure Poison",
+    "effect3": "Cure Blight Disease",
+    "effect4": "Restore Willpower",
+    "id": "ingred_scrib_jelly_01 "
+  },
+  {
+    "name": "Scrib Jerky ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "5 ",
+    "effects": [
+      "Restore Fatigue",
+      "Fortify Fatigue",
+      "Burden",
+      "Swift Swim"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Fortify Fatigue",
+    "effect3": "Burden",
+    "effect4": "Swift Swim",
+    "id": "ingred_scrib_jerky_01 "
+  },
+  {
+    "name": "Scuttle ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "10 ",
+    "effects": [
+      "Restore Fatigue",
+      "Fortify Fatigue",
+      "Feather",
+      "Telekinesis"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Fortify Fatigue",
+    "effect3": "Feather",
+    "effect4": "Telekinesis",
+    "id": "ingred_scuttle_01 "
+  },
+  {
+    "name": "Shalk Resin ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "50 ",
+    "effects": [
+      "Drain Fatigue",
+      "Fortify Health",
+      "Drain Personality",
+      "Fortify Speed"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Fortify Health",
+    "effect3": "Drain Personality",
+    "effect4": "Fortify Speed",
+    "id": "ingred_shalk_resin_01 "
+  },
+  {
+    "name": "Sload Soap ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "50 ",
+    "effects": [
+      "Drain Personality",
+      "Fortify Agility",
+      "Fire Shield",
+      "Restore Agility"
+    ],
+    "effect1": "Drain Personality",
+    "effect2": "Fortify Agility",
+    "effect3": "Fire Shield",
+    "effect4": "Restore Agility",
+    "id": "ingred_sload_soap_01 "
+  },
+  {
+    "name": "Small Corprusmeat Hunk ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "0 ",
+    "effects": [
+      "Drain Fatigue",
+      "Drain Health",
+      "Drain Magicka"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Drain Health",
+    "effect3": "Drain Magicka",
+    "effect4": null,
+    "id": "ingred_6th_corprusmeat_07 "
+  },
+  {
+    "name": "Small Kwama Egg ",
+    "location": null,
+    "value": "0.5 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Fatigue"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null,
+    "id": "food_kwama_egg_01 "
+  },
+  {
+    "name": "Small Wrapped Corprusmeat ",
+    "location": null,
+    "value": "0.2 ",
+    "weight": "0 ",
+    "effects": [
+      "Drain Fatigue",
+      "Drain Health",
+      "Drain Magicka"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Drain Health",
+    "effect3": "Drain Magicka",
+    "effect4": null,
+    "id": "ingred_6th_corprusmeat_02 "
+  },
+  {
+    "name": "Spore Pod ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Drain Strength",
+      "Drain Fatigue",
+      "Detect Key",
+      "Paralyze"
+    ],
+    "effect1": "Drain Strength",
+    "effect2": "Drain Fatigue",
+    "effect3": "Detect Key",
+    "effect4": "Paralyze",
+    "id": "ingred_bc_spore_pod "
+  },
+  {
+    "name": "Stoneflower Petals ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Strength",
+      "Fortify Magicka",
+      "Drain Luck",
+      "Fortify Personality"
+    ],
+    "effect1": "Restore Strength",
+    "effect2": "Fortify Magicka",
+    "effect3": "Drain Luck",
+    "effect4": "Fortify Personality",
+    "id": "ingred_stoneflower_petals_01 "
+  },
+  {
+    "name": "Trama Root ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "10 ",
+    "effects": [
+      "Restore Willpower",
+      "Levitate",
+      "Drain Magicka",
+      "Drain Speed"
+    ],
+    "effect1": "Restore Willpower",
+    "effect2": "Levitate",
+    "effect3": "Drain Magicka",
+    "effect4": "Drain Speed",
+    "id": "ingred_trama_root_01 "
+  },
+  {
+    "name": "Treated Bittergreen Petals ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "10 ",
+    "effects": [
+      "Restore Intelligence",
+      "Drain Magicka",
+      "Drain Endurance",
+      "Invisibility"
+    ],
+    "effect1": "Restore Intelligence",
+    "effect2": "Drain Magicka",
+    "effect3": "Drain Endurance",
+    "effect4": "Invisibility",
+    "id": "ingred_treated_bittergreen_uniq "
+  },
+  {
+    "name": "Vampire Dust ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "500 ",
+    "effects": [
+      "Fortify Health",
+      "Fortify Strength",
+      "Spell Absorption",
+      "Vampirism"
+    ],
+    "effect1": "Fortify Health",
+    "effect2": "Fortify Strength",
+    "effect3": "Spell Absorption",
+    "effect4": "Vampirism",
+    "id": "ingred_vampire_dust_01 "
+  },
+  {
+    "name": "Violet Coprinus ",
+    "location": null,
+    "value": "0.5 ",
+    "weight": "1 ",
+    "effects": [
+      "Water Walking",
+      "Drain Fatigue",
+      "Poison"
+    ],
+    "effect1": "Water Walking",
+    "effect2": "Drain Fatigue",
+    "effect3": "Poison",
+    "effect4": null,
+    "id": "ingred_coprinus_01 "
+  },
+  {
+    "name": "Void Salts ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "100 ",
+    "effects": [
+      "Restore Magicka",
+      "Spell Absorption",
+      "Paralyze",
+      "Drain Endurance"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": "Spell Absorption",
+    "effect3": "Paralyze",
+    "effect4": "Drain Endurance",
+    "id": "ingred_void_salts_01 "
+  },
+  {
+    "name": "Wickwheat ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "1 ",
+    "effects": [
+      "Restore Health",
+      "Fortify Willpower",
+      "Paralyze",
+      "Damage Intelligence"
+    ],
+    "effect1": "Restore Health",
+    "effect2": "Fortify Willpower",
+    "effect3": "Paralyze",
+    "effect4": "Damage Intelligence",
+    "id": "ingred_wickwheat_01 "
+  },
+  {
+    "name": "Willow Anther ",
+    "location": null,
+    "value": "0.1 ",
+    "weight": "10 ",
+    "effects": [
+      "Drain Personality",
+      "Frost Shield",
+      "Cure Common Disease",
+      "Cure Paralyzation"
+    ],
+    "effect1": "Drain Personality",
+    "effect2": "Frost Shield",
+    "effect3": "Cure Common Disease",
+    "effect4": "Cure Paralyzation",
+    "id": "ingred_willow_anther_01 "
+  },
+  {
+    "name": "Wrapped Corprusmeat Hunk ",
+    "location": null,
+    "value": "0.0 ",
+    "weight": "0 ",
+    "effects": [
+      "Drain Fatigue",
+      "Drain Health",
+      "Drain Magicka"
+    ],
+    "effect1": "Drain Fatigue",
+    "effect2": "Drain Health",
+    "effect3": "Drain Magicka",
+    "effect4": null,
+    "id": "ingred_6th_corprusmeat_04 "
+  }
+]

@@ -1,0 +1,1965 @@
+[
+  {
+    "name": "Alkanet Flower",
+    "location": "Alkanet",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Intelligence",
+      "Resist Poison",
+      "Light",
+      "Damage Fatigue"
+    ],
+    "effect1": "Restore Intelligence",
+    "effect2": "Resist Poison",
+    "effect3": "Light",
+    "effect4": "Damage Fatigue"
+  },
+  {
+    "name": "Aloe Vera Leaves",
+    "location": "Aloe Vera",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Restore Health",
+      "Damage Magicka",
+      "Invisibility"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Restore Health",
+    "effect3": "Damage Magicka",
+    "effect4": "Invisibility"
+  },
+  {
+    "name": "Ambrosia",
+    "location": "Mana Bloom",
+    "value": "2",
+    "weight": "1",
+    "effects": [
+      "Restore Health"
+    ],
+    "effect1": "Restore Health",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null
+  },
+  {
+    "name": "Apple",
+    "location": "Buildings, houses",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Damage Luck",
+      "Fortify Willpower",
+      "Damage Health"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Damage Luck",
+    "effect3": "Fortify Willpower",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Arrowroot",
+    "location": "Arrowroot Plant",
+    "value": "2",
+    "weight": "0.1",
+    "effects": [
+      "Restore Agility",
+      "Damage Luck",
+      "Fortify Strength",
+      "Burden"
+    ],
+    "effect1": "Restore Agility",
+    "effect2": "Damage Luck",
+    "effect3": "Fortify Strength",
+    "effect4": "Burden"
+  },
+  {
+    "name": "Ashes of Hindaril",
+    "location": "Hindaril",
+    "value": "10",
+    "weight": "0.2",
+    "effects": [
+      "Silence",
+      "Resist Disease",
+      "Frost Damage",
+      "Invisibility"
+    ],
+    "effect1": "Silence",
+    "effect2": "Resist Disease",
+    "effect3": "Frost Damage",
+    "effect4": "Invisibility"
+  },
+  {
+    "name": "Beef",
+    "location": "Buildings, homes",
+    "value": "1",
+    "weight": "1",
+    "effects": [
+      "Restore Fatigue",
+      "Shield",
+      "Fortify Agility",
+      "Dispel"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Shield",
+    "effect3": "Fortify Agility",
+    "effect4": "Dispel"
+  },
+  {
+    "name": "Bergamot Seeds",
+    "location": "Bergamot Plant",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Resist Disease",
+      "Dispel",
+      "Damage Magicka",
+      "Silence"
+    ],
+    "effect1": "Resist Disease",
+    "effect2": "Dispel",
+    "effect3": "Damage Magicka",
+    "effect4": "Silence"
+  },
+  {
+    "name": "Blackberry",
+    "location": "Blackberry Bush",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Resist Shock",
+      "Fortify Endurance",
+      "Restore Magicka"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Resist Shock",
+    "effect3": "Fortify Endurance",
+    "effect4": "Restore Magicka"
+  },
+  {
+    "name": "Bloodgrass",
+    "location": "Frostcrag SpireOblivion",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Chameleon",
+      "Resist Paralysis",
+      "Burden",
+      "Fortify Health"
+    ],
+    "effect1": "Chameleon",
+    "effect2": "Resist Paralysis",
+    "effect3": "Burden",
+    "effect4": "Fortify Health"
+  },
+  {
+    "name": "Boar Meat",
+    "location": "Boar",
+    "value": "20",
+    "weight": "2",
+    "effects": [
+      "Restore Health",
+      "Damage Speed",
+      "Fortify Health",
+      "Burden"
+    ],
+    "effect1": "Restore Health",
+    "effect2": "Damage Speed",
+    "effect3": "Fortify Health",
+    "effect4": "Burden"
+  },
+  {
+    "name": "Bog Beacon Asco Cap",
+    "location": "Bog Beacon",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Resist Disease",
+      "Dispel",
+      "Damage Magicka",
+      "Damage Endurance"
+    ],
+    "effect1": "Resist Disease",
+    "effect2": "Dispel",
+    "effect3": "Damage Magicka",
+    "effect4": "Damage Endurance"
+  },
+  {
+    "name": "Bonemeal",
+    "location": "SkeletonDeranged ZombieLich",
+    "value": "5",
+    "weight": "0.2",
+    "effects": [
+      "Damage Fatigue",
+      "Resist Fire",
+      "Fortify Luck",
+      "Night-Eye"
+    ],
+    "effect1": "Damage Fatigue",
+    "effect2": "Resist Fire",
+    "effect3": "Fortify Luck",
+    "effect4": "Night-Eye"
+  },
+  {
+    "name": "Bread Loaf",
+    "location": "Buildings, homes",
+    "value": "1",
+    "weight": "0.5",
+    "effects": [
+      "Restore Fatigue",
+      "Detect Life",
+      "Damage Agility",
+      "Damage Strength"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Detect Life",
+    "effect3": "Damage Agility",
+    "effect4": "Damage Strength"
+  },
+  {
+    "name": "Cairn Bolete Cap",
+    "location": "Cairn Bolete",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Health",
+      "Damage Intelligence",
+      "Resist Paralysis",
+      "Shock Damage"
+    ],
+    "effect1": "Restore Health",
+    "effect2": "Damage Intelligence",
+    "effect3": "Resist Paralysis",
+    "effect4": "Shock Damage"
+  },
+  {
+    "name": "Carrot",
+    "location": "Carrot Plant",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Night-Eye",
+      "Fortify Intelligence",
+      "Damage Endurance"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Night-Eye",
+    "effect3": "Fortify Intelligence",
+    "effect4": "Damage Endurance"
+  },
+  {
+    "name": "Cheese Wedge",
+    "location": "Buildings, homes",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Resist Fire",
+      "Fire Shield",
+      "Damage Agility"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Resist Fire",
+    "effect3": "Fire Shield",
+    "effect4": "Damage Agility"
+  },
+  {
+    "name": "Cheese Wheel",
+    "location": "Buildings, homes",
+    "value": "1",
+    "weight": "0.3",
+    "effects": [
+      "Restore Fatigue",
+      "Resist Paralysis",
+      "Damage Luck",
+      "Fortify Willpower"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Resist Paralysis",
+    "effect3": "Damage Luck",
+    "effect4": "Fortify Willpower"
+  },
+  {
+    "name": "Chokeberry",
+    "location": "Deepscorn Hollow",
+    "value": "15",
+    "weight": "0.5",
+    "effects": [
+      "Deadly Poison (bypasses poison resistance)"
+    ],
+    "effect1": "Deadly Poison (bypasses poison resistance)",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null
+  },
+  {
+    "name": "Cinnabar Polypore Red Cap",
+    "location": "Cinnabar Polypore",
+    "value": "3",
+    "weight": "0.1",
+    "effects": [
+      "Restore Personality",
+      "Restore Endurance",
+      "Restore Agility",
+      "Shield"
+    ],
+    "effect1": "Restore Personality",
+    "effect2": "Restore Endurance",
+    "effect3": "Restore Agility",
+    "effect4": "Shield"
+  },
+  {
+    "name": "Cinnabar Polypore Yellow Cap",
+    "location": "Cinnabar Polypore",
+    "value": "3",
+    "weight": "0.1",
+    "effects": [
+      "Restore Endurance",
+      "Fortify Endurance",
+      "Damage Personality",
+      "Reflect Spell"
+    ],
+    "effect1": "Restore Endurance",
+    "effect2": "Fortify Endurance",
+    "effect3": "Damage Personality",
+    "effect4": "Reflect Spell"
+  },
+  {
+    "name": "Clannfear Claws",
+    "location": "Clannfear",
+    "value": "50",
+    "weight": "2",
+    "effects": [
+      "Cure Disease",
+      "Resist Disease",
+      "Paralyze",
+      "Damage Health"
+    ],
+    "effect1": "Cure Disease",
+    "effect2": "Resist Disease",
+    "effect3": "Paralyze",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Clouded Funnel Cap",
+    "location": "Clouded Funnel Cap",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Intelligence",
+      "Fortify Intelligence",
+      "Damage Endurance",
+      "Damage Magicka"
+    ],
+    "effect1": "Restore Intelligence",
+    "effect2": "Fortify Intelligence",
+    "effect3": "Damage Endurance",
+    "effect4": "Damage Magicka"
+  },
+  {
+    "name": "Columbine Root Pulp",
+    "location": "Columbine",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Personality",
+      "Resist Frost",
+      "Fortify Magicka",
+      "Chameleon"
+    ],
+    "effect1": "Restore Personality",
+    "effect2": "Resist Frost",
+    "effect3": "Fortify Magicka",
+    "effect4": "Chameleon"
+  },
+  {
+    "name": "Corn",
+    "location": "Corn Stalk",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Restore Intelligence",
+      "Damage Agility",
+      "Lightning Shield"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Restore Intelligence",
+    "effect3": "Damage Agility",
+    "effect4": "Lightning Shield"
+  },
+  {
+    "name": "Crab Meat",
+    "location": "Mud Crab",
+    "value": "1",
+    "weight": "1",
+    "effects": [
+      "Restore Endurance",
+      "Resist Shock",
+      "Damage Fatigue",
+      "Fire Shield"
+    ],
+    "effect1": "Restore Endurance",
+    "effect2": "Resist Shock",
+    "effect3": "Damage Fatigue",
+    "effect4": "Fire Shield"
+  },
+  {
+    "name": "Daedra Heart",
+    "location": "Daedra",
+    "value": "25",
+    "weight": "2",
+    "effects": [
+      "Restore Health",
+      "Shock Shield",
+      "Damage Magicka",
+      "Silence"
+    ],
+    "effect1": "Restore Health",
+    "effect2": "Shock Shield",
+    "effect3": "Damage Magicka",
+    "effect4": "Silence"
+  },
+  {
+    "name": "Daedra Silk",
+    "location": "Spider Daedra",
+    "value": "75",
+    "weight": "0.5",
+    "effects": [
+      "Burden",
+      "Night-Eye",
+      "Chameleon",
+      "Damage Endurance"
+    ],
+    "effect1": "Burden",
+    "effect2": "Night-Eye",
+    "effect3": "Chameleon",
+    "effect4": "Damage Endurance"
+  },
+  {
+    "name": "Daedra Venin",
+    "location": "Spider Daedra",
+    "value": "75",
+    "weight": "0.2",
+    "effects": [
+      "Paralyze",
+      "Restore Fatigue",
+      "Damage Health",
+      "Reflect Damage"
+    ],
+    "effect1": "Paralyze",
+    "effect2": "Restore Fatigue",
+    "effect3": "Damage Health",
+    "effect4": "Reflect Damage"
+  },
+  {
+    "name": "Daedroth Teeth",
+    "location": "Daedroth",
+    "value": "65",
+    "weight": "0.5",
+    "effects": [
+      "Night-Eye",
+      "Frost Shield",
+      "Burden",
+      "Light"
+    ],
+    "effect1": "Night-Eye",
+    "effect2": "Frost Shield",
+    "effect3": "Burden",
+    "effect4": "Light"
+  },
+  {
+    "name": "Dragon's Tongue",
+    "location": "Dragon's Tongue Plant",
+    "value": "5",
+    "weight": "0.1",
+    "effects": [
+      "Resist Fire",
+      "Damage Health",
+      "Restore Health",
+      "Fire Shield"
+    ],
+    "effect1": "Resist Fire",
+    "effect2": "Damage Health",
+    "effect3": "Restore Health",
+    "effect4": "Fire Shield"
+  },
+  {
+    "name": "Dreugh Wax",
+    "location": "Land Dreugh",
+    "value": "70",
+    "weight": "1",
+    "effects": [
+      "Damage Fatigue",
+      "Resist Poison",
+      "Water Breathing",
+      "Damage Health"
+    ],
+    "effect1": "Damage Fatigue",
+    "effect2": "Resist Poison",
+    "effect3": "Water Breathing",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Dryad Saddle Polypore Cap",
+    "location": "Dryad's Saddel Polypore",
+    "value": "10",
+    "weight": "0.1",
+    "effects": [
+      "Restore Luck",
+      "Resist Frost",
+      "Damage Speed",
+      "Frost Damage"
+    ],
+    "effect1": "Restore Luck",
+    "effect2": "Resist Frost",
+    "effect3": "Damage Speed",
+    "effect4": "Frost Damage"
+  },
+  {
+    "name": "Ectoplasm",
+    "location": "Ghost, Wraith",
+    "value": "20",
+    "weight": "0.2",
+    "effects": [
+      "Shock Damage",
+      "Dispel",
+      "Fortify Magicka",
+      "Damage Health"
+    ],
+    "effect1": "Shock Damage",
+    "effect2": "Dispel",
+    "effect3": "Fortify Magicka",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Elf Cup Cap",
+    "location": "Elf Cup",
+    "value": "5",
+    "weight": "0.1",
+    "effects": [
+      "Damage Willpower",
+      "Cure Disease",
+      "Fortify Strength",
+      "Damage Intelligence"
+    ],
+    "effect1": "Damage Willpower",
+    "effect2": "Cure Disease",
+    "effect3": "Fortify Strength",
+    "effect4": "Damage Intelligence"
+  },
+  {
+    "name": "Emetic Russula Cap",
+    "location": "Emetic Russula",
+    "value": "4",
+    "weight": "0.1",
+    "effects": [
+      "Restore Agility",
+      "Shield",
+      "Damage Personality",
+      "Damage Endurance"
+    ],
+    "effect1": "Restore Agility",
+    "effect2": "Shield",
+    "effect3": "Damage Personality",
+    "effect4": "Damage Endurance"
+  },
+  {
+    "name": "Fennel Seeds",
+    "location": "Fennel",
+    "value": "5",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Damage Intelligence",
+      "Damage Magicka",
+      "Paralyze"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Damage Intelligence",
+    "effect3": "Damage Magicka",
+    "effect4": "Paralyze"
+  },
+  {
+    "name": "Fire Salts",
+    "location": "Flame Atronach",
+    "value": "30",
+    "weight": "0.1",
+    "effects": [
+      "Fire Damage",
+      "Resist Frost",
+      "Restore Magicka",
+      "Fire Shield"
+    ],
+    "effect1": "Fire Damage",
+    "effect2": "Resist Frost",
+    "effect3": "Restore Magicka",
+    "effect4": "Fire Shield"
+  },
+  {
+    "name": "Flax Seeds",
+    "location": "Flax",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Magicka",
+      "Feather",
+      "Shield",
+      "Damage Health"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": "Feather",
+    "effect3": "Shield",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Flour",
+    "location": "Buildings, homes",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Damage Personality",
+      "Fortify Fatigue",
+      "Reflect Damage"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Damage Personality",
+    "effect3": "Fortify Fatigue",
+    "effect4": "Reflect Damage"
+  },
+  {
+    "name": "Fly Amanita Cap",
+    "location": "Fly Amanita, Imperial City",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Agility",
+      "Burden",
+      "Restore Health",
+      "Lightning Damage"
+    ],
+    "effect1": "Restore Agility",
+    "effect2": "Burden",
+    "effect3": "Restore Health",
+    "effect4": "Lightning Damage"
+  },
+  {
+    "name": "Foxglove Nectar",
+    "location": "Foxglove",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Resist Poison",
+      "Resist Paralysis",
+      "Restore Luck",
+      "Resist Disease"
+    ],
+    "effect1": "Resist Poison",
+    "effect2": "Resist Paralysis",
+    "effect3": "Restore Luck",
+    "effect4": "Resist Disease"
+  },
+  {
+    "name": "Frost Salts",
+    "location": "Frost Atronach",
+    "value": "60",
+    "weight": "0.1",
+    "effects": [
+      "Frost Damage",
+      "Resist Fire",
+      "Silence",
+      "Frost Shield"
+    ],
+    "effect1": "Frost Damage",
+    "effect2": "Resist Fire",
+    "effect3": "Silence",
+    "effect4": "Frost Shield"
+  },
+  {
+    "name": "Garlic",
+    "location": "Garlic Cluster",
+    "value": "1",
+    "weight": "0",
+    "effects": [
+      "Resist Disease",
+      "Damage Agility",
+      "Frost Shield",
+      "Fortify Strength"
+    ],
+    "effect1": "Resist Disease",
+    "effect2": "Damage Agility",
+    "effect3": "Frost Shield",
+    "effect4": "Fortify Strength"
+  },
+  {
+    "name": "Ginkgo Leaf",
+    "location": "Jakben Imbel's House",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Speed",
+      "Fortify Magicka",
+      "Damage Luck",
+      "Shock Damage"
+    ],
+    "effect1": "Restore Speed",
+    "effect2": "Fortify Magicka",
+    "effect3": "Damage Luck",
+    "effect4": "Shock Damage"
+  },
+  {
+    "name": "Ginseng",
+    "location": "Ginseng Plant",
+    "value": "2",
+    "weight": "0.1",
+    "effects": [
+      "Damage Luck",
+      "Cure Poison",
+      "Burden",
+      "Fortify Magicka"
+    ],
+    "effect1": "Damage Luck",
+    "effect2": "Cure Poison",
+    "effect3": "Burden",
+    "effect4": "Fortify Magicka"
+  },
+  {
+    "name": "Glow Dust",
+    "location": "Will-o-the-Wisp",
+    "value": "23",
+    "weight": "0.1",
+    "effects": [
+      "Restore Speed",
+      "Light",
+      "Reflect Spell",
+      "Damage Health"
+    ],
+    "effect1": "Restore Speed",
+    "effect2": "Light",
+    "effect3": "Reflect Spell",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Grapes",
+    "location": "Grape Vine",
+    "value": "2",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Water Walking",
+      "Dispel",
+      "Damage Health"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Water Walking",
+    "effect3": "Dispel",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Green Stain Cup Cap",
+    "location": "Green Stain Cup",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Damage Speed",
+      "Reflect Damage",
+      "Damage Health"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Damage Speed",
+    "effect3": "Reflect Damage",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Green Stain Shelf Cap",
+    "location": "Green Stain Shelf",
+    "value": "10",
+    "weight": "0.1",
+    "effects": [
+      "Restore Luck",
+      "Fortify Luck",
+      "Damage Fatigue",
+      "Restore Health"
+    ],
+    "effect1": "Restore Luck",
+    "effect2": "Fortify Luck",
+    "effect3": "Damage Fatigue",
+    "effect4": "Restore Health"
+  },
+  {
+    "name": "Ham",
+    "location": "Some buildings, homes",
+    "value": "1",
+    "weight": "1",
+    "effects": [
+      "Restore Fatigue",
+      "Restore Health",
+      "Damage Magicka",
+      "Damage Luck"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Restore Health",
+    "effect3": "Damage Magicka",
+    "effect4": "Damage Luck"
+  },
+  {
+    "name": "Harrada Root",
+    "location": "Harrada",
+    "value": "2",
+    "weight": "0.1",
+    "effects": [
+      "Damage Health",
+      "Damage Magicka",
+      "Silence",
+      "Paralyze"
+    ],
+    "effect1": "Damage Health",
+    "effect2": "Damage Magicka",
+    "effect3": "Silence",
+    "effect4": "Paralyze"
+  },
+  {
+    "name": "Human Heart",
+    "location": "Leyawiin Mages GuildClaudius Arcadia's Basement",
+    "value": "25",
+    "weight": "2",
+    "effects": [
+      "Restore Health",
+      "Shock Shield",
+      "Damage Magicka",
+      "Silence"
+    ],
+    "effect1": "Restore Health",
+    "effect2": "Shock Shield",
+    "effect3": "Damage Magicka",
+    "effect4": "Silence"
+  },
+  {
+    "name": "Human Skin",
+    "location": "Leyawiin Mages GuildClaudius Arcadia's Basement",
+    "value": "5",
+    "weight": "1",
+    "effects": [
+      "Damage Magicka",
+      "Resist Shock",
+      "Reflect Damage",
+      "Damage Health"
+    ],
+    "effect1": "Damage Magicka",
+    "effect2": "Resist Shock",
+    "effect3": "Reflect Damage",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Imp Fluid",
+    "location": "Imp",
+    "value": "6",
+    "weight": "0",
+    "effects": [
+      "Damage Health"
+    ],
+    "effect1": "Damage Health",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null
+  },
+  {
+    "name": "Imp Gall",
+    "location": "Imp",
+    "value": "15",
+    "weight": "0.2",
+    "effects": [
+      "Fortify Personality",
+      "Cure Paralysis",
+      "Damage Health",
+      "Fire Damage"
+    ],
+    "effect1": "Fortify Personality",
+    "effect2": "Cure Paralysis",
+    "effect3": "Damage Health",
+    "effect4": "Fire Damage"
+  },
+  {
+    "name": "Ironwood Nut",
+    "location": "Buildings, houses",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Intelligence",
+      "Resist Fire",
+      "Damage Fatigue",
+      "Fortify Health"
+    ],
+    "effect1": "Restore Intelligence",
+    "effect2": "Resist Fire",
+    "effect3": "Damage Fatigue",
+    "effect4": "Fortify Health"
+  },
+  {
+    "name": "Jumbo Potato",
+    "location": "The Potato Snatcher",
+    "value": "1",
+    "weight": "0",
+    "effects": [
+      "Restore Fatigue",
+      "Shield",
+      "Burden",
+      "Frost Shield"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Shield",
+    "effect3": "Burden",
+    "effect4": "Frost Shield"
+  },
+  {
+    "name": "Lady's Mantle Leaves",
+    "location": "Lady's Mantle",
+    "value": "5",
+    "weight": "0.1",
+    "effects": [
+      "Restore Health",
+      "Damage Endurance",
+      "Night-Eye",
+      "Feather"
+    ],
+    "effect1": "Restore Health",
+    "effect2": "Damage Endurance",
+    "effect3": "Night-Eye",
+    "effect4": "Feather"
+  },
+  {
+    "name": "Lady's Smock Leaves",
+    "location": "Lady's Smock",
+    "value": "5",
+    "weight": "0.1",
+    "effects": [
+      "Restore Intelligence",
+      "Resist Fire",
+      "Damage Fatigue",
+      "Fortify Health"
+    ],
+    "effect1": "Restore Intelligence",
+    "effect2": "Resist Fire",
+    "effect3": "Damage Fatigue",
+    "effect4": "Fortify Health"
+  },
+  {
+    "name": "Lavender Sprig",
+    "location": "Lavender",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Personality",
+      "Fortify Willpower",
+      "Restore Health",
+      "Damage Luck"
+    ],
+    "effect1": "Restore Personality",
+    "effect2": "Fortify Willpower",
+    "effect3": "Restore Health",
+    "effect4": "Damage Luck"
+  },
+  {
+    "name": "Leek",
+    "location": "Leek Plant, buildings, homes",
+    "value": "3",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Fortify Agility",
+      "Damage Personality",
+      "Damage Strength"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Fortify Agility",
+    "effect3": "Damage Personality",
+    "effect4": "Damage Strength"
+  },
+  {
+    "name": "Lettuce",
+    "location": "Lettuce Plant, buildings, homes",
+    "value": "1",
+    "weight": "0.5",
+    "effects": [
+      "Restore Fatigue",
+      "Restore Luck",
+      "Fire Shield",
+      "Damage Personality"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Restore Luck",
+    "effect3": "Fire Shield",
+    "effect4": "Damage Personality"
+  },
+  {
+    "name": "Lichor",
+    "location": "Mana Bloom",
+    "value": "3",
+    "weight": "1",
+    "effects": [
+      "Restore Magicka"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null
+  },
+  {
+    "name": "Mandrake Root",
+    "location": "Mandrake",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Cure Disease",
+      "Resist Poison",
+      "Damage Agility",
+      "Fortify Willpower"
+    ],
+    "effect1": "Cure Disease",
+    "effect2": "Resist Poison",
+    "effect3": "Damage Agility",
+    "effect4": "Fortify Willpower"
+  },
+  {
+    "name": "Milk Thistle Seeds",
+    "location": "Milk Thistle",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Light",
+      "Frost Damage",
+      "Cure Paralysis",
+      "Paralyze"
+    ],
+    "effect1": "Light",
+    "effect2": "Frost Damage",
+    "effect3": "Cure Paralysis",
+    "effect4": "Paralyze"
+  },
+  {
+    "name": "Minotaur Horn",
+    "location": "Minotaur",
+    "value": "55",
+    "weight": "5",
+    "effects": [
+      "Restore Willpower",
+      "Burden",
+      "Fortify Endurance",
+      "Resist Paralysis"
+    ],
+    "effect1": "Restore Willpower",
+    "effect2": "Burden",
+    "effect3": "Fortify Endurance",
+    "effect4": "Resist Paralysis"
+  },
+  {
+    "name": "Monkshood Root Pulp",
+    "location": "Monkshood",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Strength",
+      "Damage Intelligence",
+      "Fortify Endurance",
+      "Burden"
+    ],
+    "effect1": "Restore Strength",
+    "effect2": "Damage Intelligence",
+    "effect3": "Fortify Endurance",
+    "effect4": "Burden"
+  },
+  {
+    "name": "Morning Glory Root Pulp",
+    "location": "Morning Glory",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Burden",
+      "Damage Willpower",
+      "Frost Shield",
+      "Damage Magicka"
+    ],
+    "effect1": "Burden",
+    "effect2": "Damage Willpower",
+    "effect3": "Frost Shield",
+    "effect4": "Damage Magicka"
+  },
+  {
+    "name": "Mort Flesh",
+    "location": "Zombie",
+    "value": "10",
+    "weight": "0.2",
+    "effects": [
+      "Damage Fatigue",
+      "Damage Luck",
+      "Fortify Health",
+      "Silence"
+    ],
+    "effect1": "Damage Fatigue",
+    "effect2": "Damage Luck",
+    "effect3": "Fortify Health",
+    "effect4": "Silence"
+  },
+  {
+    "name": "Motherwort Sprig",
+    "location": "Motherwort",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Resist Poison",
+      "Damage Fatigue",
+      "Silence",
+      "Invisibility"
+    ],
+    "effect1": "Resist Poison",
+    "effect2": "Damage Fatigue",
+    "effect3": "Silence",
+    "effect4": "Invisibility"
+  },
+  {
+    "name": "Mugwort Seeds",
+    "location": "Mages Guild, buildings, and houses",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Health"
+    ],
+    "effect1": "Restore Health",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null
+  },
+  {
+    "name": "Mutton",
+    "location": "Sheep",
+    "value": "2",
+    "weight": "2",
+    "effects": [
+      "Fortify Health",
+      "Damage Fatigue",
+      "Dispel",
+      "Damage Magicka"
+    ],
+    "effect1": "Fortify Health",
+    "effect2": "Damage Fatigue",
+    "effect3": "Dispel",
+    "effect4": "Damage Magicka"
+  },
+  {
+    "name": "Nightshade",
+    "location": "Nightshade Plant",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Damage Health",
+      "Burden",
+      "Damage Luck",
+      "Fortify Magicka"
+    ],
+    "effect1": "Damage Health",
+    "effect2": "Burden",
+    "effect3": "Damage Luck",
+    "effect4": "Fortify Magicka"
+  },
+  {
+    "name": "Nirnroot",
+    "location": "Nirnroot Plant (see the quest Seeking Your Roots)",
+    "value": "0",
+    "weight": "0.2",
+    "effects": [
+      "Drain Health",
+      "Drain Fatigue",
+      "Drain Agility",
+      "Drain Speed"
+    ],
+    "effect1": "Drain Health",
+    "effect2": "Drain Fatigue",
+    "effect3": "Drain Agility",
+    "effect4": "Drain Speed"
+  },
+  {
+    "name": "Ogre's Teeth",
+    "location": "Ogre",
+    "value": "75",
+    "weight": "3",
+    "effects": [
+      "Damage Intelligence",
+      "Resist Paralysis",
+      "Shock Damage",
+      "Fortify Strength"
+    ],
+    "effect1": "Damage Intelligence",
+    "effect2": "Resist Paralysis",
+    "effect3": "Shock Damage",
+    "effect4": "Fortify Strength"
+  },
+  {
+    "name": "Onion",
+    "location": "Buildings, homes",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Water Breathing",
+      "Detect Life",
+      "Damage Health"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Water Breathing",
+    "effect3": "Detect Life",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Orange",
+    "location": "Buildings, houses",
+    "value": "2",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Detect Life",
+      "Burden",
+      "Shield"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Detect Life",
+    "effect3": "Burden",
+    "effect4": "Shield"
+  },
+  {
+    "name": "Painted Troll Fat",
+    "location": "Painted Troll",
+    "value": "75",
+    "weight": "2",
+    "effects": [
+      "Fortify Magicka",
+      "Restore Health",
+      "Fortify Health",
+      "Restore Magicka"
+    ],
+    "effect1": "Fortify Magicka",
+    "effect2": "Restore Health",
+    "effect3": "Fortify Health",
+    "effect4": "Restore Magicka"
+  },
+  {
+    "name": "Pear",
+    "location": "Buildings, homes",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Damage Speed",
+      "Fortify Speed",
+      "Damage Health"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Damage Speed",
+    "effect3": "Fortify Speed",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Peony Seeds",
+    "location": "Peony",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Strength",
+      "Damage Health",
+      "Damage Speed",
+      "Restore Fatigue"
+    ],
+    "effect1": "Restore Strength",
+    "effect2": "Damage Health",
+    "effect3": "Damage Speed",
+    "effect4": "Restore Fatigue"
+  },
+  {
+    "name": "Pinarus' Prize Minotaur Horn",
+    "location": "Gweden Farm",
+    "value": "55",
+    "weight": "5",
+    "effects": [
+      "Restore Willpower",
+      "Burden",
+      "Restore Endurance",
+      "Resist Paralysis"
+    ],
+    "effect1": "Restore Willpower",
+    "effect2": "Burden",
+    "effect3": "Restore Endurance",
+    "effect4": "Resist Paralysis"
+  },
+  {
+    "name": "Poisoned Apple",
+    "location": "Bravil Wizard's Tower (inside lair/grotto)",
+    "value": "300",
+    "weight": "0",
+    "effects": [
+      "Deadly Poison (bypasses poison resistance)"
+    ],
+    "effect1": "Deadly Poison (bypasses poison resistance)",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null
+  },
+  {
+    "name": "Potato",
+    "location": "Potato Plant",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Shield",
+      "Burden",
+      "Frost Shield"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Shield",
+    "effect3": "Burden",
+    "effect4": "Frost Shield"
+  },
+  {
+    "name": "Primrose Leaves",
+    "location": "Primrose",
+    "value": "3",
+    "weight": "0.1",
+    "effects": [
+      "Restore Willpower",
+      "Restore Personality",
+      "Fortify Luck",
+      "Damage Strength"
+    ],
+    "effect1": "Restore Willpower",
+    "effect2": "Restore Personality",
+    "effect3": "Fortify Luck",
+    "effect4": "Damage Strength"
+  },
+  {
+    "name": "Pumpkin",
+    "location": "Pumpkin Vine",
+    "value": "2",
+    "weight": "5",
+    "effects": [
+      "Restore Fatigue",
+      "Damage Agility",
+      "Damage Personality",
+      "Detect Life"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Damage Agility",
+    "effect3": "Damage Personality",
+    "effect4": "Detect Life"
+  },
+  {
+    "name": "Radish",
+    "location": "Radish Plant",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Damage Endurance",
+      "Chameleon",
+      "Burden"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Damage Endurance",
+    "effect3": "Chameleon",
+    "effect4": "Burden"
+  },
+  {
+    "name": "Rat Meat",
+    "location": "Rat",
+    "value": "1",
+    "weight": "0.5",
+    "effects": [
+      "Damage Fatigue",
+      "Detect Life",
+      "Damage Magicka",
+      "Silence"
+    ],
+    "effect1": "Damage Fatigue",
+    "effect2": "Detect Life",
+    "effect3": "Damage Magicka",
+    "effect4": "Silence"
+  },
+  {
+    "name": "Redwort Flower",
+    "location": "Domica Redwort",
+    "value": "4",
+    "weight": "0.1",
+    "effects": [
+      "Resist Frost",
+      "Cure Poison",
+      "Damage Health",
+      "Invisibility"
+    ],
+    "effect1": "Resist Frost",
+    "effect2": "Cure Poison",
+    "effect3": "Damage Health",
+    "effect4": "Invisibility"
+  },
+  {
+    "name": "Refined Frost Salts",
+    "location": "Part of quest Tears of the Savior",
+    "value": "40",
+    "weight": "0.1",
+    "effects": [
+      "Frost Damage",
+      "Frost Shield",
+      "Resist Fire",
+      "Silence"
+    ],
+    "effect1": "Frost Damage",
+    "effect2": "Frost Shield",
+    "effect3": "Resist Fire",
+    "effect4": "Silence"
+  },
+  {
+    "name": "Rice",
+    "location": "Rice Plant",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Silence",
+      "Shock Shield",
+      "Damage Agility"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Silence",
+    "effect3": "Shock Shield",
+    "effect4": "Damage Agility"
+  },
+  {
+    "name": "Root Pulp",
+    "location": "Brotch Calus' house in BrumaSkingrad West Weald Inn's cellarThe Main Ingredient, basement (2)",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Cure Disease",
+      "Damage Willpower",
+      "Fortify Strength",
+      "Damage Intelligence"
+    ],
+    "effect1": "Cure Disease",
+    "effect2": "Damage Willpower",
+    "effect3": "Fortify Strength",
+    "effect4": "Damage Intelligence"
+  },
+  {
+    "name": "Rumare Slaughterfish Scales",
+    "location": "Rumare Slaughterfish for the quest Go Fish",
+    "value": "2",
+    "weight": "0",
+    "effects": [
+      "Damage Willpower",
+      "Water Breathing",
+      "Damage Health",
+      "Water Walking"
+    ],
+    "effect1": "Damage Willpower",
+    "effect2": "Water Breathing",
+    "effect3": "Damage Health",
+    "effect4": "Water Walking"
+  },
+  {
+    "name": "S'jirra's Famous Potato Bread",
+    "location": "S'jirra at the Faregyl Inn",
+    "value": "30",
+    "weight": "0.5",
+    "effects": [
+      "Damage Agility",
+      "Damage Strength",
+      "Detect Life",
+      "Restore Health"
+    ],
+    "effect1": "Damage Agility",
+    "effect2": "Damage Strength",
+    "effect3": "Detect Life",
+    "effect4": "Restore Health"
+  },
+  {
+    "name": "Sacred Lotus Seeds",
+    "location": "Sacred Lotus",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Resist Frost",
+      "Damage Health",
+      "Feather",
+      "Dispel"
+    ],
+    "effect1": "Resist Frost",
+    "effect2": "Damage Health",
+    "effect3": "Feather",
+    "effect4": "Dispel"
+  },
+  {
+    "name": "Scales",
+    "location": "SlaughterfishBitterfish Goblin",
+    "value": "5",
+    "weight": "0.1",
+    "effects": [
+      "Damage Willpower",
+      "Water Breathing",
+      "Damage Health",
+      "Water Walking"
+    ],
+    "effect1": "Damage Willpower",
+    "effect2": "Water Breathing",
+    "effect3": "Damage Health",
+    "effect4": "Water Walking"
+  },
+  {
+    "name": "Scamp Skin",
+    "location": "ScampFleshy Pod",
+    "value": "10",
+    "weight": "1",
+    "effects": [
+      "Damage Magicka",
+      "Resist Shock",
+      "Reflect Damage",
+      "Damage Health"
+    ],
+    "effect1": "Damage Magicka",
+    "effect2": "Resist Shock",
+    "effect3": "Reflect Damage",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Shepherd's Pie",
+    "location": "Derelict Mine by the Goblin ChefHrota CaveEyja in Rosethorn Hall after completing the Helping Hands quest",
+    "value": "0",
+    "weight": "1",
+    "effects": [
+      "Cure Disease",
+      "Shield",
+      "Fortify Agility",
+      "Dispel"
+    ],
+    "effect1": "Cure Disease",
+    "effect2": "Shield",
+    "effect3": "Fortify Agility",
+    "effect4": "Dispel"
+  },
+  {
+    "name": "Somnalius Frond",
+    "location": "Somnalius Plant",
+    "value": "3",
+    "weight": "0.1",
+    "effects": [
+      "Restore Speed",
+      "Damage Endurance",
+      "Fortify Health",
+      "Feather"
+    ],
+    "effect1": "Restore Speed",
+    "effect2": "Damage Endurance",
+    "effect3": "Fortify Health",
+    "effect4": "Feather"
+  },
+  {
+    "name": "Spiddal Stick",
+    "location": "Oblivion",
+    "value": "2",
+    "weight": "0.1",
+    "effects": [
+      "Damage Magicka",
+      "Damage Health",
+      "Fire Damage",
+      "Restore Fatigue"
+    ],
+    "effect1": "Damage Magicka",
+    "effect2": "Damage Health",
+    "effect3": "Fire Damage",
+    "effect4": "Restore Fatigue"
+  },
+  {
+    "name": "St. Jahn's Wort Nectar",
+    "location": "St. Jahn's Wort",
+    "value": "5",
+    "weight": "0.1",
+    "effects": [
+      "Resist Shock",
+      "Damage Health",
+      "Cure Poison",
+      "Chameleon"
+    ],
+    "effect1": "Resist Shock",
+    "effect2": "Damage Health",
+    "effect3": "Cure Poison",
+    "effect4": "Chameleon"
+  },
+  {
+    "name": "Steel-Blue Entoloma Cap",
+    "location": "Steel-Blue Entoloma",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Magicka",
+      "Fire Damage",
+      "Resist Frost",
+      "Burden"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": "Fire Damage",
+    "effect3": "Resist Frost",
+    "effect4": "Burden"
+  },
+  {
+    "name": "Stinkhorn Cap",
+    "location": "Stinkhorn",
+    "value": "3",
+    "weight": "0.1",
+    "effects": [
+      "Damage Health",
+      "Restore Magicka",
+      "Water Walking",
+      "Invisibility"
+    ],
+    "effect1": "Damage Health",
+    "effect2": "Restore Magicka",
+    "effect3": "Water Walking",
+    "effect4": "Invisibility"
+  },
+  {
+    "name": "Strawberry",
+    "location": "Strawberry Bush",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Cure Poison",
+      "Damage Health",
+      "Reflect Damage"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Cure Poison",
+    "effect3": "Damage Health",
+    "effect4": "Reflect Damage"
+  },
+  {
+    "name": "Summer Bolete Cap",
+    "location": "Summer Bolete",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Agility",
+      "Shield",
+      "Damage Personality",
+      "Damage Endurance"
+    ],
+    "effect1": "Restore Agility",
+    "effect2": "Shield",
+    "effect3": "Damage Personality",
+    "effect4": "Damage Endurance"
+  },
+  {
+    "name": "Sweetcake",
+    "location": "Usually elegant buildings, homes",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Feather",
+      "Restore Health",
+      "Burden"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Feather",
+    "effect3": "Restore Health",
+    "effect4": "Burden"
+  },
+  {
+    "name": "Sweetroll",
+    "location": "Buildings, homes",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Resist Disease",
+      "Damage Personality",
+      "Fortify Health"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Resist Disease",
+    "effect3": "Damage Personality",
+    "effect4": "Fortify Health"
+  },
+  {
+    "name": "Taproot",
+    "location": "Spriggan",
+    "value": "1",
+    "weight": "0.3",
+    "effects": [
+      "Restore Luck",
+      "Damage Endurance",
+      "Resist Poison",
+      "Shock Shield"
+    ],
+    "effect1": "Restore Luck",
+    "effect2": "Damage Endurance",
+    "effect3": "Resist Poison",
+    "effect4": "Shock Shield"
+  },
+  {
+    "name": "Tiger Lily Nectar",
+    "location": "Tiger LilyLily of the Valley",
+    "value": "3",
+    "weight": "0.1",
+    "effects": [
+      "Restore Endurance",
+      "Damage Strength",
+      "Water Walking",
+      "Damage Willpower"
+    ],
+    "effect1": "Restore Endurance",
+    "effect2": "Damage Strength",
+    "effect3": "Water Walking",
+    "effect4": "Damage Willpower"
+  },
+  {
+    "name": "Tinder Polypore Cap",
+    "location": "Tinder Polypore",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Restore Willpower",
+      "Resist Disease",
+      "Invisibility",
+      "Damage Magicka"
+    ],
+    "effect1": "Restore Willpower",
+    "effect2": "Resist Disease",
+    "effect3": "Invisibility",
+    "effect4": "Damage Magicka"
+  },
+  {
+    "name": "Tobacco",
+    "location": "Tobacco Plant",
+    "value": "5",
+    "weight": "0.1",
+    "effects": [
+      "Restore Fatigue",
+      "Resist Paralysis",
+      "Damage Magicka",
+      "Dispel"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Resist Paralysis",
+    "effect3": "Damage Magicka",
+    "effect4": "Dispel"
+  },
+  {
+    "name": "Tomato",
+    "location": "Tomato Plant",
+    "value": "2",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Detect Life",
+      "Burden",
+      "Shield"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Detect Life",
+    "effect3": "Burden",
+    "effect4": "Shield"
+  },
+  {
+    "name": "Troll Fat",
+    "location": "Troll",
+    "value": "25",
+    "weight": "2",
+    "effects": [
+      "Damage Agility",
+      "Fortify Personality",
+      "Damage Willpower",
+      "Damage Health"
+    ],
+    "effect1": "Damage Agility",
+    "effect2": "Fortify Personality",
+    "effect3": "Damage Willpower",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Unicorn Horn",
+    "location": "Unicorn",
+    "value": "0",
+    "weight": "1.5",
+    "effects": [
+      "Fortify Health"
+    ],
+    "effect1": "Fortify Health",
+    "effect2": null,
+    "effect3": null,
+    "effect4": null
+  },
+  {
+    "name": "Vampire Dust",
+    "location": "Vampire",
+    "value": "50",
+    "weight": "0.2",
+    "effects": [
+      "Silence",
+      "Resist Disease",
+      "Frost Damage",
+      "Invisibility"
+    ],
+    "effect1": "Silence",
+    "effect2": "Resist Disease",
+    "effect3": "Frost Damage",
+    "effect4": "Invisibility"
+  },
+  {
+    "name": "Venison",
+    "location": "Deer",
+    "value": "1",
+    "weight": "2",
+    "effects": [
+      "Restore Health",
+      "Feather",
+      "Damage Health",
+      "Chameleon"
+    ],
+    "effect1": "Restore Health",
+    "effect2": "Feather",
+    "effect3": "Damage Health",
+    "effect4": "Chameleon"
+  },
+  {
+    "name": "Viper's Bugloss Leaves",
+    "location": "Viper's Bugloss",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Resist Paralysis",
+      "Night-Eye",
+      "Burden",
+      "Cure Paralysis"
+    ],
+    "effect1": "Resist Paralysis",
+    "effect2": "Night-Eye",
+    "effect3": "Burden",
+    "effect4": "Cure Paralysis"
+  },
+  {
+    "name": "Void Salts",
+    "location": "Storm Atronach",
+    "value": "30",
+    "weight": "0.4",
+    "effects": [
+      "Restore Magicka",
+      "Damage Health",
+      "Fortify Magicka",
+      "Dispel"
+    ],
+    "effect1": "Restore Magicka",
+    "effect2": "Damage Health",
+    "effect3": "Fortify Magicka",
+    "effect4": "Dispel"
+  },
+  {
+    "name": "Water Hyacinth Nectar",
+    "location": "Water Hyacinth",
+    "value": "2",
+    "weight": "0.1",
+    "effects": [
+      "Damage Luck",
+      "Damage Fatigue",
+      "Restore Magicka",
+      "Fortify Magicka"
+    ],
+    "effect1": "Damage Luck",
+    "effect2": "Damage Fatigue",
+    "effect3": "Restore Magicka",
+    "effect4": "Fortify Magicka"
+  },
+  {
+    "name": "Watermelon",
+    "location": "Watermelon Vine",
+    "value": "2",
+    "weight": "5",
+    "effects": [
+      "Restore Fatigue",
+      "Light",
+      "Burden",
+      "Damage Health"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Light",
+    "effect3": "Burden",
+    "effect4": "Damage Health"
+  },
+  {
+    "name": "Wheat Grain",
+    "location": "Wheat Stalk",
+    "value": "1",
+    "weight": "0.2",
+    "effects": [
+      "Restore Fatigue",
+      "Damage Magicka",
+      "Fortify Health",
+      "Damage Personality"
+    ],
+    "effect1": "Restore Fatigue",
+    "effect2": "Damage Magicka",
+    "effect3": "Fortify Health",
+    "effect4": "Damage Personality"
+  },
+  {
+    "name": "White Seed Pod",
+    "location": "Goldenrod",
+    "value": "5",
+    "weight": "0.1",
+    "effects": [
+      "Restore Strength",
+      "Water Breathing",
+      "Silence",
+      "Light"
+    ],
+    "effect1": "Restore Strength",
+    "effect2": "Water Breathing",
+    "effect3": "Silence",
+    "effect4": "Light"
+  },
+  {
+    "name": "Wisp Stalk Caps",
+    "location": "Wisp Stalks",
+    "value": "1",
+    "weight": "0.1",
+    "effects": [
+      "Damage Health",
+      "Damage Willpower",
+      "Damage Intelligence",
+      "Fortify Speed"
+    ],
+    "effect1": "Damage Health",
+    "effect2": "Damage Willpower",
+    "effect3": "Damage Intelligence",
+    "effect4": "Fortify Speed"
+  },
+  {
+    "name": "Wormwood Leaves",
+    "location": "Wormwood",
+    "value": "2",
+    "weight": "0.1",
+    "effects": [
+      "Fortify Fatigue",
+      "Invisibility",
+      "Damage Health",
+      "Damage Magicka"
+    ],
+    "effect1": "Fortify Fatigue",
+    "effect2": "Invisibility",
+    "effect3": "Damage Health",
+    "effect4": "Damage Magicka"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Adamantium Ore",
+    "location": null,
+    "value": "50.0",
+    "weight": "300",
+    "effects": [
+      "Burden",
+      "Restore Magicka",
+      "Poison",
+      "Reflect"
+    ],
+    "effect1": "Burden",
+    "effect2": "Restore Magicka",
+    "effect3": "Poison",
+    "effect4": "Reflect",
+    "id": "ingred_adamantium_ore_01"
+  },
+  {
+    "name": "Durzog Meat",
+    "location": null,
+    "value": "2.0",
+    "weight": "7",
+    "effects": [
+      "Fortify Agility",
+      "Fortify Strength",
+      "Blind",
+      "Damage Magicka"
+    ],
+    "effect1": "Fortify Agility",
+    "effect2": "Fortify Strength",
+    "effect3": "Blind",
+    "effect4": "Damage Magicka",
+    "id": "ingred_durzog_meat_01"
+  },
+  {
+    "name": "Golden Sedge Flowers",
+    "location": null,
+    "value": "1.0",
+    "weight": "1",
+    "effects": [
+      "Damage Magicka",
+      "Fortify Strength",
+      "Fortify Attack",
+      "Swift Swim"
+    ],
+    "effect1": "Damage Magicka",
+    "effect2": "Fortify Strength",
+    "effect3": "Fortify Attack",
+    "effect4": "Swift Swim",
+    "id": "ingred_golden_sedge_01"
+  },
+  {
+    "name": "Horn Lily Bulb",
+    "location": null,
+    "value": "1.0",
+    "weight": "1",
+    "effects": [
+      "Resist Paralysis",
+      "Drain Health",
+      "Restore Strength",
+      "Restore Endurance"
+    ],
+    "effect1": "Resist Paralysis",
+    "effect2": "Drain Health",
+    "effect3": "Restore Strength",
+    "effect4": "Restore Endurance",
+    "id": "ingred_horn_lily_bulb_01"
+  },
+  {
+    "name": "Lloramor Spines",
+    "location": null,
+    "value": "1.0",
+    "weight": "1",
+    "effects": [
+      "Spell Absorption",
+      "Invisibility",
+      "Poison",
+      "Detect Enchantment"
+    ],
+    "effect1": "Spell Absorption",
+    "effect2": "Invisibility",
+    "effect3": "Poison",
+    "effect4": "Detect Enchantment",
+    "id": "ingred_lloramor_spines_01"
+  },
+  {
+    "name": "Meadow Rye",
+    "location": null,
+    "value": "1.0",
+    "weight": "1",
+    "effects": [
+      "Fortify Speed",
+      "Damage Health",
+      "Restore Speed",
+      "Drain Speed"
+    ],
+    "effect1": "Fortify Speed",
+    "effect2": "Damage Health",
+    "effect3": "Restore Speed",
+    "effect4": "Drain Speed",
+    "id": "ingred_meadow_rye_01"
+  },
+  {
+    "name": "Nirthfly Stalks",
+    "location": null,
+    "value": "1.0",
+    "weight": "1",
+    "effects": [
+      "Damage Health",
+      "Fortify Speed",
+      "Restore Speed",
+      "Drain Speed"
+    ],
+    "effect1": "Damage Health",
+    "effect2": "Fortify Speed",
+    "effect3": "Restore Speed",
+    "effect4": "Drain Speed",
+    "id": "ingred_nirthfly_stalks_01"
+  },
+  {
+    "name": "Noble Sedge Flowers",
+    "location": null,
+    "value": "1.0",
+    "weight": "1",
+    "effects": [
+      "Damage Health",
+      "Restore Agility",
+      "Poison",
+      "Fortify Agility"
+    ],
+    "effect1": "Damage Health",
+    "effect2": "Restore Agility",
+    "effect3": "Poison",
+    "effect4": "Fortify Agility",
+    "id": "ingred_noble_sedge_01"
+  },
+  {
+    "name": "Scrib Cabbage",
+    "location": null,
+    "value": "1.0",
+    "weight": "1",
+    "effects": [
+      "Drain Intelligence",
+      "Damage Health",
+      "Restore Agility",
+      "Fortify Agility"
+    ],
+    "effect1": "Drain Intelligence",
+    "effect2": "Damage Health",
+    "effect3": "Restore Agility",
+    "effect4": "Fortify Agility",
+    "id": "ingred_scrib_cabbage_01"
+  },
+  {
+    "name": "Sweetpulp",
+    "location": null,
+    "value": "1.0",
+    "weight": "1",
+    "effects": [
+      "Paralyze",
+      "Levitate",
+      "Resist Paralysis",
+      "Restore Health"
+    ],
+    "effect1": "Paralyze",
+    "effect2": "Levitate",
+    "effect3": "Resist Paralysis",
+    "effect4": "Restore Health",
+    "id": "ingred_sweetpulp_01"
+  },
+  {
+    "name": "Timsa-Come-By Flowers",
+    "location": null,
+    "value": "1.0",
+    "weight": "1",
+    "effects": [
+      "Dispel",
+      "Resist Paralysis",
+      "Drain Magicka",
+      "Restore Endurance"
+    ],
+    "effect1": "Dispel",
+    "effect2": "Resist Paralysis",
+    "effect3": "Drain Magicka",
+    "effect4": "Restore Endurance",
+    "id": "ingred_timsa-come-by_01"
+  }
+]
