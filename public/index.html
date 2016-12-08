@@ -4,7 +4,7 @@
 </head>
 <body>
     <ul id="ingredientsList">
-        <ingredient-list-item v-for="ingredient in ingredients" v-bind:ingredient="ingredient"></ingredient-list-item>
+        <ingredient-list-item v-for="ingredient in ingredients" v-bind:ingredient="ingredient" v-bind:title="ingredient.effects.join('\n')"></ingredient-list-item>
     </ul>
     <ul id="effectsList">
         <effect-list-item v-for="effect in effects" v-bind:effect="effect"></effect-list-item>
