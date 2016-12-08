@@ -4,14 +4,10 @@
 </head>
 <body>
     <ul id="ingredientsList">
-        <li v-for="ingredient in ingredients">
-            {{ ingredient.name }}
-        </li>
+        <ingredient-list-item v-for="ingredient in ingredients" v-bind:ingredient="ingredient"></ingredient-list-item>
     </ul>
     <ul id="effectsList">
-        <li v-for="effect in effects">
-            {{ effect }}
-        </li>
+        <effect-list-item v-for="effect in effects" v-bind:effect="effect"></effect-list-item>
     </ul>
 
     <script src="index.js" type="text/javascript"></script>

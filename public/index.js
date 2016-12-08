@@ -1776,6 +1776,17 @@ var ings = [
         "effect4": "Damage Stamina Regen"
     }
 ];
+var effects = ["Cure Disease","Damage Health","Damage Magicka","Damage Magicka Regen","Damage Stamina","Damage Stamina Regen","Fear","Fortify Alteration","Fortify Barter","Fortify Block","Fortify Carry Weight","Fortify Conjuration","Fortify Destruction","Fortify Enchanting","Fortify Health","Fortify Heavy Armor","Fortify Illusion","Fortify Light Armor","Fortify Lockpicking","Fortify Magicka","Fortify Marksman","Fortify One-Handed","Fortify Pickpocket","Fortify Restoration","Fortify Smithing","Fortify Sneak","Fortify Stamina","Fortify Two-handed","Fortify Two-Handed","Frenzy","Invisibility","Lingering Damage Health","Lingering Damage Magicka","Lingering Damage Stamina","Paralysis","Ravage Health","Ravage Magicka","Ravage Stamina","Regenerate Health","Regenerate Magicka","Regenerate Stamina","Resist Fire","Resist Frost","Resist Magic","Resist Poison","Resist Shock","Restore Health","Restore Magicka","Restore Stamina","Slow","Waterbreathing","Weakness to Fire","Weakness to Frost","Weakness to Magic","Weakness to Poison","Weakness to Shock"];
+
+Vue.component('ingredient-list-item', {
+    props: [ 'ingredient' ],
+    template: '<li>{{ ingredient.name }}</li>'
+});
+
+Vue.component('effect-list-item', {
+    props: [ 'effect' ],
+    template: '<li>{{ effect }}</li>'
+});
 
 var ingredientsList = new Vue({
     el: '#ingredientsList',
@@ -1784,10 +1795,10 @@ var ingredientsList = new Vue({
     }
 });
 
-var effects = ["Cure Disease","Damage Health","Damage Magicka","Damage Magicka Regen","Damage Stamina","Damage Stamina Regen","Fear","Fortify Alteration","Fortify Barter","Fortify Block","Fortify Carry Weight","Fortify Conjuration","Fortify Destruction","Fortify Enchanting","Fortify Health","Fortify Heavy Armor","Fortify Illusion","Fortify Light Armor","Fortify Lockpicking","Fortify Magicka","Fortify Marksman","Fortify One-Handed","Fortify Pickpocket","Fortify Restoration","Fortify Smithing","Fortify Sneak","Fortify Stamina","Fortify Two-handed","Fortify Two-Handed","Frenzy","Invisibility","Lingering Damage Health","Lingering Damage Magicka","Lingering Damage Stamina","Paralysis","Ravage Health","Ravage Magicka","Ravage Stamina","Regenerate Health","Regenerate Magicka","Regenerate Stamina","Resist Fire","Resist Frost","Resist Magic","Resist Poison","Resist Shock","Restore Health","Restore Magicka","Restore Stamina","Slow","Waterbreathing","Weakness to Fire","Weakness to Frost","Weakness to Magic","Weakness to Poison","Weakness to Shock"];
 var effectsList = new Vue({
     el: '#effectsList',
     data: {
         effects: effects
     }
 });
+
