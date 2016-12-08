@@ -848,7 +848,7 @@ var ings = [
         "effect4": "Fortify Sneak"
     },
     {
-        "name": "Hawk's Egg†",
+        "name": "Hawk's Egg",
         "location": "Hawk's Nest",
         "value": "2",
         "weight": "0.5",
@@ -1201,7 +1201,7 @@ var ings = [
     },
     {
         "name": "Pearl",
-        "location": "Satchels; Alchemy Laboratory of a Homestead† Pearl Oyster",
+        "location": "Satchels; Alchemy Laboratory of a Homestead Pearl Oyster",
         "value": "2",
         "weight": "0.1",
         "effects": [
@@ -1249,7 +1249,7 @@ var ings = [
     },
     {
         "name": "Powdered Mammoth Tusk",
-        "location": "Giant Camps, Alchemy Laboratory of a Homestead†",
+        "location": "Giant Camps, Alchemy Laboratory of a Homestead",
         "value": "2",
         "weight": "0.1",
         "effects": [
@@ -1344,8 +1344,8 @@ var ings = [
         "effect4": "Weakness to Poison"
     },
     {
-        "name": "Salmon Roe†",
-        "location": "Salmon jumping up falls, Kitchen of a Homestead†",
+        "name": "Salmon Roe",
+        "location": "Salmon jumping up falls, Kitchen of a Homestead",
         "value": "5",
         "weight": "0.2",
         "effects": [
