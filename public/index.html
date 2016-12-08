@@ -7,7 +7,7 @@
         <ingredient-list-item v-for="ingredient in ingredients" v-bind:ingredient="ingredient" v-bind:title="ingredient.effects.join('\n')"></ingredient-list-item>
     </ul>
     <ul id="effectsList">
-        <effect-list-item v-for="effect in effects" v-bind:effect="effect"></effect-list-item>
+        <effect-list-item v-for="effect in effects" v-bind:effect="effect" v-bind:title="effect.ingredients.join('\n')"></effect-list-item>
     </ul>
 
     <script src="index.js" type="text/javascript"></script>
