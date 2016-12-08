@@ -16,7 +16,7 @@ var ings = [
         "effect4": "Fortify Restoration"
     },
     {
-        "name": "Ancestor Moth Wing*",
+        "name": "Ancestor Moth Wing",
         "location": "Ancestor Glade",
         "value": "2",
         "weight": "0.1",
@@ -352,7 +352,7 @@ var ings = [
         "effect4": "Invisibility"
     },
     {
-        "name": "Chaurus Hunter Antennae*",
+        "name": "Chaurus Hunter Antennae",
         "location": "Chaurus Hunter Chaurus Hunter Fledgling",
         "value": "2",
         "weight": "0.1",
@@ -704,7 +704,7 @@ var ings = [
         "effect4": "Damage Stamina Regen"
     },
     {
-        "name": "Gleamblossom*",
+        "name": "Gleamblossom",
         "location": "Harvested in Darkfall Cave, Forgotten Vale",
         "value": "5",
         "weight": "0.1",
@@ -1232,7 +1232,7 @@ var ings = [
         "effect4": "Resist Shock"
     },
     {
-        "name": "Poison Bloom*",
+        "name": "Poison Bloom",
         "location": "Darkfall Cave",
         "value": "5",
         "weight": "0.3",
@@ -1760,7 +1760,7 @@ var ings = [
         "effect4": "Resist Magic"
     },
     {
-        "name": "Yellow Mountain Flower*",
+        "name": "Yellow Mountain Flower",
         "location": "Darkfall Cave",
         "value": "2",
         "weight": "0.1",
@@ -1777,6 +1777,17 @@ var ings = [
     }
 ];
 
-for (var i = 0; i < ings.length; i++) {
-    
-}
+var ingredientsList = new Vue({
+    el: '#ingredientsList',
+    data: {
+        ingredients: ings
+    }
+});
+
+var effects = ["Cure Disease","Damage Health","Damage Magicka","Damage Magicka Regen","Damage Stamina","Damage Stamina Regen","Fear","Fortify Alteration","Fortify Barter","Fortify Block","Fortify Carry Weight","Fortify Conjuration","Fortify Destruction","Fortify Enchanting","Fortify Health","Fortify Heavy Armor","Fortify Illusion","Fortify Light Armor","Fortify Lockpicking","Fortify Magicka","Fortify Marksman","Fortify One-Handed","Fortify Pickpocket","Fortify Restoration","Fortify Smithing","Fortify Sneak","Fortify Stamina","Fortify Two-handed","Fortify Two-Handed","Frenzy","Invisibility","Lingering Damage Health","Lingering Damage Magicka","Lingering Damage Stamina","Paralysis","Ravage Health","Ravage Magicka","Ravage Stamina","Regenerate Health","Regenerate Magicka","Regenerate Stamina","Resist Fire","Resist Frost","Resist Magic","Resist Poison","Resist Shock","Restore Health","Restore Magicka","Restore Stamina","Slow","Waterbreathing","Weakness to Fire","Weakness to Frost","Weakness to Magic","Weakness to Poison","Weakness to Shock"];
+var effectsList = new Vue({
+    el: '#effectsList',
+    data: {
+        effects: effects
+    }
+});
