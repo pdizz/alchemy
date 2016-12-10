@@ -2502,7 +2502,23 @@ new Vue({
     el: '#alchemy-app',
     data: {
         ingredients: ings,
-        effects: effs
+        effects: effs,
+        ingredientsQuery: '',
+        effectsQuery: ''
+    },
+    computed: {
+        filteredIngredients: function() {
+            var query = this.ingredientsQuery;
+            return this.ingredients.filter(function (ingredient) {
+                return String(ingredient.name).toLowerCase().indexOf(query) > -1;
+            });
+        },
+        filteredEffects: function() {
+            var query = this.effectsQuery;
+            return this.effects.filter(function (effect) {
+                return String(effect.name).toLowerCase().indexOf(query) > -1;
+            });
+        }
     }
 });
 
