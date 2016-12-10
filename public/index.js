@@ -2123,17 +2123,12 @@ var effs = [
         ]
     },
     {
-        "name": "Fortify Two-handed",
-        "ingredients": [
-            "Dragon's Tongue",
-            "Fly Amanita",
-            "Troll Fat"
-        ]
-    },
-    {
         "name": "Fortify Two-Handed",
         "ingredients": [
-            "Emperor Parasol Moss"
+            "Dragon's Tongue",
+            "Emperor Parasol Moss",
+            "Fly Amanita",
+            "Troll Fat"
         ]
     },
     {
