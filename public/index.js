@@ -2503,26 +2503,10 @@ var effs = [
     }
 ];
 
-Vue.component('ingredient-list-item', {
-    props: [ 'ingredient' ],
-    template: '<li>{{ ingredient.name }}</li>'
-});
-
-Vue.component('effect-list-item', {
-    props: [ 'effect' ],
-    template: '<li>{{ effect.name }}</li>'
-});
-
-var ingredientsList = new Vue({
-    el: '#ingredientsList',
+new Vue({
+    el: '#alchemy-app',
     data: {
-        ingredients: ings
-    }
-});
-
-var effectsList = new Vue({
-    el: '#effectsList',
-    data: {
+        ingredients: ings,
         effects: effs
     }
 });
