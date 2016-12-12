@@ -6,17 +6,24 @@
     <div id="alchemy-app">
         <div id="ingredientsList">
         <input name="thing" v-model="ingredientsQuery" placeholder="query ingredients">
-        <ul>
-            <li v-for="ingredient in filteredIngredients" v-bind:title="ingredient.effects.join('\n')">{{ ingredient.name }}</li>
-        </ul>
+        <select v-model="selectedIngredients" multiple>
+            <option v-for="ingredient in filteredIngredients" v-bind:value="ingredient.name" v-bind:title="ingredient.effects.join('\n')">
+                {{ ingredient.name }}
+            </option>
+        </select>
         </div>
+
         <div id="effectsList">
         <input name="thing" v-model="effectsQuery" placeholder="query effects">
-        <ul>
-            <li v-for="effect in filteredEffects" v-bind:title="effect.ingredients.join('\n')">{{ effect.name }}</li>
-        </ul>
+        <select v-model="selectedEffects" multiple>
+            <option v-for="effect in filteredEffects" v-bind:value="effect.name" v-bind:title="effect.ingredients.join('\n')">
+                {{ effect.name }}
+            </option>
+        </select>
         </div>
+
     </div>
+
 
     <script src="index.js" type="text/javascript"></script>
 </body>

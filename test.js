@@ -1,5 +1,5 @@
-var ings = [
-    {
+var ings = {
+    "Abecean Longfin": {
         "name": "Abecean Longfin",
         "location": "Lakes, rivers, streams, fish barrels",
         "value": "15",
@@ -15,7 +15,7 @@ var ings = [
         "effect3": "Weakness to Poison",
         "effect4": "Fortify Restoration"
     },
-    {
+    "Ancestor Moth Wing": {
         "name": "Ancestor Moth Wing",
         "location": "Ancestor Glade",
         "value": "2",
@@ -31,7 +31,7 @@ var ings = [
         "effect3": "Damage Magicka Regen",
         "effect4": "Fortify Enchanting"
     },
-    {
+    "Ash Creep Cluster": {
         "name": "Ash Creep Cluster",
         "location": "Harvested from ash covered areas of Solstheim",
         "value": "20",
@@ -47,7 +47,7 @@ var ings = [
         "effect3": "Resist Fire",
         "effect4": "Fortify Destruction"
     },
-    {
+    "Ash Hopper Jelly": {
         "name": "Ash Hopper Jelly",
         "location": "Ash Hopper Corpses",
         "value": "20",
@@ -63,7 +63,7 @@ var ings = [
         "effect3": "Resist Shock",
         "effect4": "Weakness to Frost"
     },
-    {
+    "Ashen Grass Pod": {
         "name": "Ashen Grass Pod",
         "location": "Harvested from ash covered areas of Solstheim",
         "value": "1",
@@ -79,7 +79,7 @@ var ings = [
         "effect3": "Fortify Lockpicking",
         "effect4": "Fortify Sneak"
     },
-    {
+    "Bear Claws": {
         "name": "Bear Claws",
         "location": "Bears",
         "value": "2",
@@ -95,7 +95,7 @@ var ings = [
         "effect3": "Fortify One-Handed",
         "effect4": "Damage Magicka Regen"
     },
-    {
+    "Bee": {
         "name": "Bee",
         "location": "Beehive",
         "value": "3",
@@ -111,7 +111,7 @@ var ings = [
         "effect3": "Regenerate Stamina",
         "effect4": "Weakness to Shock"
     },
-    {
+    "Beehive Husk": {
         "name": "Beehive Husk",
         "location": "Beehive",
         "value": "5",
@@ -127,7 +127,7 @@ var ings = [
         "effect3": "Fortify Sneak",
         "effect4": "Fortify Destruction"
     },
-    {
+    "Berit's Ashes": {
         "name": "Berit's Ashes",
         "location": "Quest item given by Thadgeir",
         "value": "5",
@@ -143,7 +143,7 @@ var ings = [
         "effect3": "Fortify Conjuration",
         "effect4": "Ravage Stamina"
     },
-    {
+    "Bleeding Crown": {
         "name": "Bleeding Crown",
         "location": "Mushroom clusters",
         "value": "10",
@@ -159,7 +159,7 @@ var ings = [
         "effect3": "Weakness to Poison",
         "effect4": "Resist Magic"
     },
-    {
+    "Blisterwort": {
         "name": "Blisterwort",
         "location": "Caves and dark areas",
         "value": "12",
@@ -175,7 +175,7 @@ var ings = [
         "effect3": "Restore Health",
         "effect4": "Fortify Smithing"
     },
-    {
+    "Blue Butterfly Wing": {
         "name": "Blue Butterfly Wing",
         "location": "Blue Butterfly",
         "value": "2",
@@ -191,7 +191,7 @@ var ings = [
         "effect3": "Damage Magicka Regen",
         "effect4": "Fortify Enchanting"
     },
-    {
+    "Blue Dartwing": {
         "name": "Blue Dartwing",
         "location": "Hovering above water",
         "value": "1",
@@ -207,7 +207,7 @@ var ings = [
         "effect3": "Restore Health",
         "effect4": "Fear"
     },
-    {
+    "Blue Mountain Flower": {
         "name": "Blue Mountain Flower",
         "location": "Mountain flower clumps",
         "value": "2",
@@ -223,7 +223,7 @@ var ings = [
         "effect3": "Fortify Health",
         "effect4": "Damage Magicka Regen"
     },
-    {
+    "Boar Tusk": {
         "name": "Boar Tusk",
         "location": "Tusked Bristlebacks",
         "value": "20",
@@ -239,7 +239,7 @@ var ings = [
         "effect3": "Fortify Block",
         "effect4": "Frenzy"
     },
-    {
+    "Bone Meal": {
         "name": "Bone Meal",
         "location": "Draugr and skeletons",
         "value": "5",
@@ -255,7 +255,7 @@ var ings = [
         "effect3": "Fortify Conjuration",
         "effect4": "Ravage Stamina"
     },
-    {
+    "Briar Heart": {
         "name": "Briar Heart",
         "location": "Forsworn Leaders",
         "value": "20",
@@ -271,7 +271,7 @@ var ings = [
         "effect3": "Paralysis",
         "effect4": "Fortify Magicka"
     },
-    {
+    "Burnt Spriggan Wood": {
         "name": "Burnt Spriggan Wood",
         "location": "Burnt Spriggans",
         "value": "20",
@@ -287,7 +287,7 @@ var ings = [
         "effect3": "Damage Magicka Regen",
         "effect4": "Slow"
     },
-    {
+    "Butterfly Wing": {
         "name": "Butterfly Wing",
         "location": "Monarch Butterfly",
         "value": "3",
@@ -303,7 +303,7 @@ var ings = [
         "effect3": "Lingering Damage Stamina",
         "effect4": "Damage Magicka"
     },
-    {
+    "Canis Root": {
         "name": "Canis Root",
         "location": "Near rocky areas",
         "value": "5",
@@ -319,7 +319,7 @@ var ings = [
         "effect3": "Fortify Marksman",
         "effect4": "Paralysis"
     },
-    {
+    "Charred Skeever Hide": {
         "name": "Charred Skeever Hide",
         "location": "Found at campfires",
         "value": "1",
@@ -335,7 +335,7 @@ var ings = [
         "effect3": "Resist Poison",
         "effect4": "Restore Health"
     },
-    {
+    "Chaurus Eggs": {
         "name": "Chaurus Eggs",
         "location": "Falmer caves",
         "value": "10",
@@ -351,7 +351,7 @@ var ings = [
         "effect3": "Damage Magicka",
         "effect4": "Invisibility"
     },
-    {
+    "Chaurus Hunter Antennae": {
         "name": "Chaurus Hunter Antennae",
         "location": "Chaurus Hunter Chaurus Hunter Fledgling",
         "value": "2",
@@ -367,7 +367,7 @@ var ings = [
         "effect3": "Damage Magicka Regen",
         "effect4": "Fortify Enchanting"
     },
-    {
+    "Chicken's Egg": {
         "name": "Chicken's Egg",
         "location": "Chicken's Nest",
         "value": "2",
@@ -383,7 +383,7 @@ var ings = [
         "effect3": "Waterbreathing",
         "effect4": "Lingering Damage Stamina"
     },
-    {
+    "Creep Cluster": {
         "name": "Creep Cluster",
         "location": "Hydro-thermal areas",
         "value": "1",
@@ -399,7 +399,7 @@ var ings = [
         "effect3": "Fortify Carry Weight",
         "effect4": "Weakness to Magic"
     },
-    {
+    "Crimson Nirnroot": {
         "name": "Crimson Nirnroot",
         "location": "Blackreach",
         "value": "10",
@@ -415,7 +415,7 @@ var ings = [
         "effect3": "Invisibility",
         "effect4": "Resist Magic"
     },
-    {
+    "Cyrodilic Spadetail": {
         "name": "Cyrodilic Spadetail",
         "location": "Lakes, rivers, streams, fish barrels",
         "value": "15",
@@ -431,7 +431,7 @@ var ings = [
         "effect3": "Fear",
         "effect4": "Ravage Health"
     },
-    {
+    "Daedra Heart": {
         "name": "Daedra Heart",
         "location": "Daedra",
         "value": "250",
@@ -447,7 +447,7 @@ var ings = [
         "effect3": "Damage Magicka",
         "effect4": "Fear"
     },
-    {
+    "Deathbell": {
         "name": "Deathbell",
         "location": "Wild, on planters",
         "value": "4",
@@ -463,7 +463,7 @@ var ings = [
         "effect3": "Slow",
         "effect4": "Weakness to Poison"
     },
-    {
+    "Dragon's Tongue": {
         "name": "Dragon's Tongue",
         "location": "Hydro-thermal areas",
         "value": "5",
@@ -479,7 +479,7 @@ var ings = [
         "effect3": "Fortify Illusion",
         "effect4": "Fortify Two-handed"
     },
-    {
+    "Dwarven Oil": {
         "name": "Dwarven Oil",
         "location": "Dwemer Ruins",
         "value": "15",
@@ -495,7 +495,7 @@ var ings = [
         "effect3": "Regenerate Magicka",
         "effect4": "Restore Magicka"
     },
-    {
+    "Ectoplasm": {
         "name": "Ectoplasm",
         "location": "Ghostlike creatures",
         "value": "25",
@@ -511,7 +511,7 @@ var ings = [
         "effect3": "Fortify Magicka",
         "effect4": "Damage Health"
     },
-    {
+    "Elves Ear": {
         "name": "Elves Ear",
         "location": "Plant, hanging herbs",
         "value": "10",
@@ -527,7 +527,7 @@ var ings = [
         "effect3": "Weakness to Frost",
         "effect4": "Resist Fire"
     },
-    {
+    "Emperor Parasol Moss": {
         "name": "Emperor Parasol Moss",
         "location": "Hanging from Emperor Parasol around Tel Mithryn.",
         "value": "1",
@@ -543,7 +543,7 @@ var ings = [
         "effect3": "Regenerate Health",
         "effect4": "Fortify Two-Handed"
     },
-    {
+    "Eye of Sabre Cat": {
         "name": "Eye of Sabre Cat",
         "location": "Sabre Cat, Snowy Sabre Cat",
         "value": "2",
@@ -559,7 +559,7 @@ var ings = [
         "effect3": "Damage Magicka",
         "effect4": "Restore Health"
     },
-    {
+    "Falmer Ear": {
         "name": "Falmer Ear",
         "location": "Falmer",
         "value": "10",
@@ -575,7 +575,7 @@ var ings = [
         "effect3": "Resist Poison",
         "effect4": "Fortify Lockpicking"
     },
-    {
+    "Felsaad Tern Feathers": {
         "name": "Felsaad Tern Feathers",
         "location": "Felsaad Tern",
         "value": "15",
@@ -591,7 +591,7 @@ var ings = [
         "effect3": "Cure Disease",
         "effect4": "Resist Magic"
     },
-    {
+    "Fire Salts": {
         "name": "Fire Salts",
         "location": "Flame Atronach",
         "value": "50",
@@ -607,7 +607,7 @@ var ings = [
         "effect3": "Restore Magicka",
         "effect4": "Regenerate Magicka"
     },
-    {
+    "Fly Amanita": {
         "name": "Fly Amanita",
         "location": "Mushroom clusters in and around caves",
         "value": "2",
@@ -623,7 +623,7 @@ var ings = [
         "effect3": "Frenzy",
         "effect4": "Regenerate Stamina"
     },
-    {
+    "Frost Mirriam": {
         "name": "Frost Mirriam",
         "location": "Hanging in homes, businesses and giant camps",
         "value": "1",
@@ -639,7 +639,7 @@ var ings = [
         "effect3": "Ravage Magicka",
         "effect4": "Damage Stamina Regen"
     },
-    {
+    "Frost Salts": {
         "name": "Frost Salts",
         "location": "Frost Atronach",
         "value": "100",
@@ -655,7 +655,7 @@ var ings = [
         "effect3": "Restore Magicka",
         "effect4": "Fortify Conjuration"
     },
-    {
+    "Garlic": {
         "name": "Garlic",
         "location": "Hanging in homes, businesses and cooking areas",
         "value": "1",
@@ -671,7 +671,7 @@ var ings = [
         "effect3": "Regenerate Magicka",
         "effect4": "Regenerate Health"
     },
-    {
+    "Giant Lichen": {
         "name": "Giant Lichen",
         "location": "Swamps",
         "value": "5",
@@ -687,7 +687,7 @@ var ings = [
         "effect3": "Weakness to Poison",
         "effect4": "Restore Magicka"
     },
-    {
+    "Giant's Toe": {
         "name": "Giant's Toe",
         "location": "Giants",
         "value": "20",
@@ -703,7 +703,7 @@ var ings = [
         "effect3": "Fortify Carry Weight",
         "effect4": "Damage Stamina Regen"
     },
-    {
+    "Gleamblossom": {
         "name": "Gleamblossom",
         "location": "Harvested in Darkfall Cave, Forgotten Vale",
         "value": "5",
@@ -719,7 +719,7 @@ var ings = [
         "effect3": "Regenerate Health",
         "effect4": "Paralysis"
     },
-    {
+    "Glow Dust": {
         "name": "Glow Dust",
         "location": "Wispmother",
         "value": "20",
@@ -735,7 +735,7 @@ var ings = [
         "effect3": "Fortify Destruction",
         "effect4": "Resist Shock"
     },
-    {
+    "Glowing Mushroom": {
         "name": "Glowing Mushroom",
         "location": "Caves, Dwemer Ruins",
         "value": "5",
@@ -751,7 +751,7 @@ var ings = [
         "effect3": "Fortify Smithing",
         "effect4": "Fortify Health"
     },
-    {
+    "Grass Pod": {
         "name": "Grass Pod",
         "location": "Tundras",
         "value": "1",
@@ -767,7 +767,7 @@ var ings = [
         "effect3": "Fortify Alteration",
         "effect4": "Restore Magicka"
     },
-    {
+    "Hagraven Claw": {
         "name": "Hagraven Claw",
         "location": "Hagraven",
         "value": "20",
@@ -783,7 +783,7 @@ var ings = [
         "effect3": "Fortify Enchanting",
         "effect4": "Fortify Barter"
     },
-    {
+    "Hagraven Feathers": {
         "name": "Hagraven Feathers",
         "location": "Hagraven",
         "value": "20",
@@ -799,7 +799,7 @@ var ings = [
         "effect3": "Frenzy",
         "effect4": "Weakness to Shock"
     },
-    {
+    "Hanging Moss": {
         "name": "Hanging Moss",
         "location": "Vegetated areas, hanging in caves, from buildings",
         "value": "1",
@@ -815,7 +815,7 @@ var ings = [
         "effect3": "Damage Magicka Regen",
         "effect4": "Fortify One-Handed"
     },
-    {
+    "Hawk Beak": {
         "name": "Hawk Beak",
         "location": "Hawks",
         "value": "15",
@@ -831,7 +831,7 @@ var ings = [
         "effect3": "Fortify Carry Weight",
         "effect4": "Resist Shock"
     },
-    {
+    "Hawk Feathers": {
         "name": "Hawk Feathers",
         "location": "Hawks",
         "value": "15",
@@ -847,7 +847,7 @@ var ings = [
         "effect3": "Fortify One-Handed",
         "effect4": "Fortify Sneak"
     },
-    {
+    "Hawk's Egg": {
         "name": "Hawk's Egg",
         "location": "Hawk's Nest",
         "value": "2",
@@ -863,7 +863,7 @@ var ings = [
         "effect3": "Waterbreathing",
         "effect4": "Lingering Damage Stamina"
     },
-    {
+    "Histcarp": {
         "name": "Histcarp",
         "location": "Lakes, rivers, streams and fish barrels",
         "value": "6",
@@ -879,7 +879,7 @@ var ings = [
         "effect3": "Damage Stamina Regen",
         "effect4": "Waterbreathing"
     },
-    {
+    "Honeycomb": {
         "name": "Honeycomb",
         "location": "Beehive",
         "value": "5",
@@ -895,7 +895,7 @@ var ings = [
         "effect3": "Fortify Light Armor",
         "effect4": "Ravage Stamina"
     },
-    {
+    "Human Flesh": {
         "name": "Human Flesh",
         "location": "Falmer Vampire dens",
         "value": "1",
@@ -911,7 +911,7 @@ var ings = [
         "effect3": "Restore Magicka",
         "effect4": "Fortify Sneak"
     },
-    {
+    "Human Heart": {
         "name": "Human Heart",
         "location": "Falmer Vampire dens",
         "value": "0",
@@ -927,7 +927,7 @@ var ings = [
         "effect3": "Damage Magicka Regen",
         "effect4": "Frenzy"
     },
-    {
+    "Ice Wraith Teeth": {
         "name": "Ice Wraith Teeth",
         "location": "Ice Wraith",
         "value": "30",
@@ -943,7 +943,7 @@ var ings = [
         "effect3": "Invisibility",
         "effect4": "Weakness to Fire"
     },
-    {
+    "Imp Stool": {
         "name": "Imp Stool",
         "location": "Mushroom clusters near caves or dungeons",
         "value": "0",
@@ -959,7 +959,7 @@ var ings = [
         "effect3": "Paralysis",
         "effect4": "Restore Health"
     },
-    {
+    "Jarrin Root": {
         "name": "Jarrin Root",
         "location": "Dark Brotherhood Quest",
         "value": "10",
@@ -975,7 +975,7 @@ var ings = [
         "effect3": "Damage Stamina",
         "effect4": "Damage Magicka Regen"
     },
-    {
+    "Jazbay Grapes": {
         "name": "Jazbay Grapes",
         "location": "Hydro-thermal regions",
         "value": "1",
@@ -991,7 +991,7 @@ var ings = [
         "effect3": "Regenerate Magicka",
         "effect4": "Ravage Health"
     },
-    {
+    "Juniper Berries": {
         "name": "Juniper Berries",
         "location": "Juniper Trees",
         "value": "1",
@@ -1007,7 +1007,7 @@ var ings = [
         "effect3": "Regenerate Health",
         "effect4": "Damage Stamina Regen"
     },
-    {
+    "Large Antlers": {
         "name": "Large Antlers",
         "location": "Deer, Elk",
         "value": "2",
@@ -1023,7 +1023,7 @@ var ings = [
         "effect3": "Slow",
         "effect4": "Damage Stamina Regen"
     },
-    {
+    "Lavender": {
         "name": "Lavender",
         "location": "Outdoors in clumps",
         "value": "1",
@@ -1039,7 +1039,7 @@ var ings = [
         "effect3": "Ravage Magicka",
         "effect4": "Fortify Conjuration"
     },
-    {
+    "Luna Moth Wing": {
         "name": "Luna Moth Wing",
         "location": "Luna Moth",
         "value": "5",
@@ -1055,7 +1055,7 @@ var ings = [
         "effect3": "Regenerate Health",
         "effect4": "Invisibility"
     },
-    {
+    "Moon Sugar": {
         "name": "Moon Sugar",
         "location": "Khajiit Caravans",
         "value": "50",
@@ -1071,7 +1071,7 @@ var ings = [
         "effect3": "Restore Magicka",
         "effect4": "Regenerate Magicka"
     },
-    {
+    "Mora Tapinella": {
         "name": "Mora Tapinella",
         "location": "Dead Trees",
         "value": "4",
@@ -1087,7 +1087,7 @@ var ings = [
         "effect3": "Regenerate Stamina",
         "effect4": "Fortify Illusion"
     },
-    {
+    "Mudcrab Chitin": {
         "name": "Mudcrab Chitin",
         "location": "Mudcrabs",
         "value": "2",
@@ -1103,7 +1103,7 @@ var ings = [
         "effect3": "Resist Poison",
         "effect4": "Resist Fire"
     },
-    {
+    "Namira's Rot": {
         "name": "Namira's Rot",
         "location": "Caves",
         "value": "0",
@@ -1119,7 +1119,7 @@ var ings = [
         "effect3": "Fear",
         "effect4": "Regenerate Health"
     },
-    {
+    "Netch Jelly": {
         "name": "Netch Jelly",
         "location": "Netch",
         "value": "20",
@@ -1135,7 +1135,7 @@ var ings = [
         "effect3": "Restore Stamina",
         "effect4": "Fear"
     },
-    {
+    "Nightshade": {
         "name": "Nightshade",
         "location": "Graveyards, undead areas",
         "value": "8",
@@ -1151,7 +1151,7 @@ var ings = [
         "effect3": "Lingering Damage Stamina",
         "effect4": "Fortify Destruction"
     },
-    {
+    "Nirnroot": {
         "name": "Nirnroot",
         "location": "Near water",
         "value": "10",
@@ -1167,7 +1167,7 @@ var ings = [
         "effect3": "Invisibility",
         "effect4": "Resist Magic"
     },
-    {
+    "Nordic Barnacle": {
         "name": "Nordic Barnacle",
         "location": "Underwater",
         "value": "5",
@@ -1183,7 +1183,7 @@ var ings = [
         "effect3": "Regenerate Health",
         "effect4": "Fortify Pickpocket"
     },
-    {
+    "Orange Dartwing": {
         "name": "Orange Dartwing",
         "location": "Hovering above water",
         "value": "1",
@@ -1199,7 +1199,7 @@ var ings = [
         "effect3": "Fortify Pickpocket",
         "effect4": "Lingering Damage Health"
     },
-    {
+    "Pearl": {
         "name": "Pearl",
         "location": "Satchels; Alchemy Laboratory of a Homestead Pearl Oyster",
         "value": "2",
@@ -1215,7 +1215,7 @@ var ings = [
         "effect3": "Restore Magicka",
         "effect4": "Resist Shock"
     },
-    {
+    "Pine Thrush Egg": {
         "name": "Pine Thrush Egg",
         "location": "Nests in forests",
         "value": "2",
@@ -1231,7 +1231,7 @@ var ings = [
         "effect3": "Weakness to Poison",
         "effect4": "Resist Shock"
     },
-    {
+    "Poison Bloom": {
         "name": "Poison Bloom",
         "location": "Darkfall Cave",
         "value": "5",
@@ -1247,7 +1247,7 @@ var ings = [
         "effect3": "Fortify Carry Weight",
         "effect4": "Fear"
     },
-    {
+    "Powdered Mammoth Tusk": {
         "name": "Powdered Mammoth Tusk",
         "location": "Giant Camps, Alchemy Laboratory of a Homestead",
         "value": "2",
@@ -1263,7 +1263,7 @@ var ings = [
         "effect3": "Weakness to Fire",
         "effect4": "Fear"
     },
-    {
+    "Purple Mountain Flower": {
         "name": "Purple Mountain Flower",
         "location": "Mountain flower clumps",
         "value": "2",
@@ -1279,7 +1279,7 @@ var ings = [
         "effect3": "Lingering Damage Magicka",
         "effect4": "Resist Frost"
     },
-    {
+    "Red Mountain Flower": {
         "name": "Red Mountain Flower",
         "location": "Mountain flower clumps",
         "value": "2",
@@ -1295,7 +1295,7 @@ var ings = [
         "effect3": "Fortify Magicka",
         "effect4": "Damage Health"
     },
-    {
+    "River Betty": {
         "name": "River Betty",
         "location": "Lakes, rivers, streams and fish barrels",
         "value": "15",
@@ -1311,7 +1311,7 @@ var ings = [
         "effect3": "Slow",
         "effect4": "Fortify Carry Weight"
     },
-    {
+    "Rock Warbler Egg": {
         "name": "Rock Warbler Egg",
         "location": "Rock Warbler Nest",
         "value": "2",
@@ -1327,7 +1327,7 @@ var ings = [
         "effect3": "Damage Stamina",
         "effect4": "Weakness to Magic"
     },
-    {
+    "Sabre Cat Tooth": {
         "name": "Sabre Cat Tooth",
         "location": "Sabre Cat, Snowy Sabre Cat",
         "value": "2",
@@ -1343,7 +1343,7 @@ var ings = [
         "effect3": "Fortify Smithing",
         "effect4": "Weakness to Poison"
     },
-    {
+    "Salmon Roe": {
         "name": "Salmon Roe",
         "location": "Salmon jumping up falls, Kitchen of a Homestead",
         "value": "5",
@@ -1359,7 +1359,7 @@ var ings = [
         "effect3": "Fortify Magicka",
         "effect4": "Regenerate Magicka"
     },
-    {
+    "Salt Pile": {
         "name": "Salt Pile",
         "location": "Merchants, containers, near cooking places",
         "value": "2",
@@ -1375,7 +1375,7 @@ var ings = [
         "effect3": "Slow",
         "effect4": "Regenerate Magicka"
     },
-    {
+    "Scaly Pholiota": {
         "name": "Scaly Pholiota",
         "location": "Dead birch trees",
         "value": "4",
@@ -1391,7 +1391,7 @@ var ings = [
         "effect3": "Regenerate Stamina",
         "effect4": "Fortify Carry Weight"
     },
-    {
+    "Scathecraw": {
         "name": "Scathecraw",
         "location": "Harvested all over Solstheim",
         "value": "1",
@@ -1407,7 +1407,7 @@ var ings = [
         "effect3": "Ravage Magicka",
         "effect4": "Lingering Damage Health"
     },
-    {
+    "Silverside Perch": {
         "name": "Silverside Perch",
         "location": "Lakes, rivers, streams and fish barrels",
         "value": "15",
@@ -1423,7 +1423,7 @@ var ings = [
         "effect3": "Ravage Health",
         "effect4": "Resist Frost"
     },
-    {
+    "Skeever Tail": {
         "name": "Skeever Tail",
         "location": "Skeever",
         "value": "3",
@@ -1439,7 +1439,7 @@ var ings = [
         "effect3": "Damage Health",
         "effect4": "Fortify Light Armor"
     },
-    {
+    "Slaughterfish Egg": {
         "name": "Slaughterfish Egg",
         "location": "Underwater",
         "value": "3",
@@ -1455,7 +1455,7 @@ var ings = [
         "effect3": "Lingering Damage Health",
         "effect4": "Fortify Stamina"
     },
-    {
+    "Slaughterfish Scales": {
         "name": "Slaughterfish Scales",
         "location": "Slaughterfish",
         "value": "3",
@@ -1471,7 +1471,7 @@ var ings = [
         "effect3": "Fortify Heavy Armor",
         "effect4": "Fortify Block"
     },
-    {
+    "Small Antlers": {
         "name": "Small Antlers",
         "location": "Elk",
         "value": "2",
@@ -1487,7 +1487,7 @@ var ings = [
         "effect3": "Lingering Damage Stamina",
         "effect4": "Damage Health"
     },
-    {
+    "Small Pearl": {
         "name": "Small Pearl",
         "location": "Pearl Oyster",
         "value": "2",
@@ -1503,7 +1503,7 @@ var ings = [
         "effect3": "Fortify Restoration",
         "effect4": "Resist Frost"
     },
-    {
+    "Snowberries": {
         "name": "Snowberries",
         "location": "Snowberry bush, snowy areas",
         "value": "4",
@@ -1519,7 +1519,7 @@ var ings = [
         "effect3": "Resist Frost",
         "effect4": "Resist Shock"
     },
-    {
+    "Spawn Ash": {
         "name": "Spawn Ash",
         "location": "Ash Spawn",
         "value": "20",
@@ -1535,7 +1535,7 @@ var ings = [
         "effect3": "Fortify Enchanting",
         "effect4": "Ravage Magicka"
     },
-    {
+    "Spider Egg": {
         "name": "Spider Egg",
         "location": "Spider lairs",
         "value": "5",
@@ -1551,7 +1551,7 @@ var ings = [
         "effect3": "Fortify Lockpicking",
         "effect4": "Fortify Marksman"
     },
-    {
+    "Spriggan Sap": {
         "name": "Spriggan Sap",
         "location": "Spriggan",
         "value": "15",
@@ -1567,7 +1567,7 @@ var ings = [
         "effect3": "Fortify Smithing",
         "effect4": "Fortify Alteration"
     },
-    {
+    "Swamp Fungal Pod": {
         "name": "Swamp Fungal Pod",
         "location": "Swamps",
         "value": "5",
@@ -1583,7 +1583,7 @@ var ings = [
         "effect3": "Paralysis",
         "effect4": "Restore Health"
     },
-    {
+    "Taproot": {
         "name": "Taproot",
         "location": "Spriggan",
         "value": "15",
@@ -1599,7 +1599,7 @@ var ings = [
         "effect3": "Regenerate Magicka",
         "effect4": "Restore Magicka"
     },
-    {
+    "Thistle Branch": {
         "name": "Thistle Branch",
         "location": "Thistle Plant",
         "value": "1",
@@ -1615,7 +1615,7 @@ var ings = [
         "effect3": "Resist Poison",
         "effect4": "Fortify Heavy Armor"
     },
-    {
+    "Torchbug Thorax": {
         "name": "Torchbug Thorax",
         "location": "Torchbugs, glowing at night",
         "value": "1",
@@ -1631,7 +1631,7 @@ var ings = [
         "effect3": "Weakness to Magic",
         "effect4": "Fortify Stamina"
     },
-    {
+    "Trama Root": {
         "name": "Trama Root",
         "location": "Harvested from ashen areas of Solstheim",
         "value": "1",
@@ -1647,7 +1647,7 @@ var ings = [
         "effect3": "Damage Magicka",
         "effect4": "Slow"
     },
-    {
+    "Troll Fat": {
         "name": "Troll Fat",
         "location": "Trolls",
         "value": "15",
@@ -1663,7 +1663,7 @@ var ings = [
         "effect3": "Frenzy",
         "effect4": "Damage Health"
     },
-    {
+    "Tundra Cotton": {
         "name": "Tundra Cotton",
         "location": "High mountains below snow line, tundra",
         "value": "1",
@@ -1679,7 +1679,7 @@ var ings = [
         "effect3": "Fortify Block",
         "effect4": "Fortify Barter"
     },
-    {
+    "Vampire Dust": {
         "name": "Vampire Dust",
         "location": "Vampires, the Silver Hand",
         "value": "25",
@@ -1695,7 +1695,7 @@ var ings = [
         "effect3": "Regenerate Health",
         "effect4": "Cure Disease"
     },
-    {
+    "Void Salts": {
         "name": "Void Salts",
         "location": "Storm Atronach",
         "value": "125",
@@ -1711,7 +1711,7 @@ var ings = [
         "effect3": "Damage Health",
         "effect4": "Fortify Magicka"
     },
-    {
+    "Wheat": {
         "name": "Wheat",
         "location": "Grows on farms, containers",
         "value": "5",
@@ -1727,7 +1727,7 @@ var ings = [
         "effect3": "Damage Stamina Regen",
         "effect4": "Lingering Damage Magicka"
     },
-    {
+    "White Cap": {
         "name": "White Cap",
         "location": "Mushroom clusters near caves or dungeons",
         "value": "0",
@@ -1743,7 +1743,7 @@ var ings = [
         "effect3": "Restore Magicka",
         "effect4": "Ravage Magicka"
     },
-    {
+    "Wisp Wrappings": {
         "name": "Wisp Wrappings",
         "location": "Wispmother",
         "value": "2",
@@ -1759,7 +1759,7 @@ var ings = [
         "effect3": "Fortify Carry Weight",
         "effect4": "Resist Magic"
     },
-    {
+    "Yellow Mountain Flower": {
         "name": "Yellow Mountain Flower",
         "location": "Darkfall Cave",
         "value": "2",
@@ -1775,9 +1775,9 @@ var ings = [
         "effect3": "Fortify Health",
         "effect4": "Damage Stamina Regen"
     }
-];
-var effs = [
-    {
+};
+var effs = {
+    "Cure Disease": {
         "name": "Cure Disease",
         "ingredients": [
             "Charred Skeever Hide",
@@ -1787,7 +1787,7 @@ var effs = [
             "Vampire Dust"
         ]
     },
-    {
+    "Damage Health": {
         "name": "Damage Health",
         "ingredients": [
             "Crimson Nirnroot",
@@ -1810,7 +1810,7 @@ var effs = [
             "Void Salts"
         ]
     },
-    {
+    "Damage Magicka": {
         "name": "Damage Magicka",
         "ingredients": [
             "Butterfly Wing",
@@ -1828,7 +1828,7 @@ var effs = [
             "Trama Root"
         ]
     },
-    {
+    "Damage Magicka Regen": {
         "name": "Damage Magicka Regen",
         "ingredients": [
             "Ancestor Moth Wing",
@@ -1848,7 +1848,7 @@ var effs = [
             "Spriggan Sap"
         ]
     },
-    {
+    "Damage Stamina": {
         "name": "Damage Stamina",
         "ingredients": [
             "Ancestor Moth Wing",
@@ -1868,7 +1868,7 @@ var effs = [
             "Spider Egg"
         ]
     },
-    {
+    "Damage Stamina Regen": {
         "name": "Damage Stamina Regen",
         "ingredients": [
             "Creep Cluster",
@@ -1884,7 +1884,7 @@ var effs = [
             "Yellow Mountain Flower"
         ]
     },
-    {
+    "Fear": {
         "name": "Fear",
         "ingredients": [
             "Blue Dartwing",
@@ -1897,7 +1897,7 @@ var effs = [
             "Powdered Mammoth Tusk"
         ]
     },
-    {
+    "Fortify Alteration": {
         "name": "Fortify Alteration",
         "ingredients": [
             "Burnt Spriggan Wood",
@@ -1906,7 +1906,7 @@ var effs = [
             "Spriggan Sap"
         ]
     },
-    {
+    "Fortify Barter": {
         "name": "Fortify Barter",
         "ingredients": [
             "Butterfly Wing",
@@ -1915,7 +1915,7 @@ var effs = [
             "Tundra Cotton"
         ]
     },
-    {
+    "Fortify Block": {
         "name": "Fortify Block",
         "ingredients": [
             "Bleeding Crown",
@@ -1927,7 +1927,7 @@ var effs = [
             "Tundra Cotton"
         ]
     },
-    {
+    "Fortify Carry Weight": {
         "name": "Fortify Carry Weight",
         "ingredients": [
             "Creep Cluster",
@@ -1941,7 +1941,7 @@ var effs = [
             "Wisp Wrappings"
         ]
     },
-    {
+    "Fortify Conjuration": {
         "name": "Fortify Conjuration",
         "ingredients": [
             "Ancestor Moth Wing",
@@ -1955,7 +1955,7 @@ var effs = [
             "Lavender"
         ]
     },
-    {
+    "Fortify Destruction": {
         "name": "Fortify Destruction",
         "ingredients": [
             "Ash Creep Cluster",
@@ -1967,7 +1967,7 @@ var effs = [
             "Wisp Wrappings"
         ]
     },
-    {
+    "Fortify Enchanting": {
         "name": "Fortify Enchanting",
         "ingredients": [
             "Ancestor Moth Wing",
@@ -1979,7 +1979,7 @@ var effs = [
             "Spriggan Sap"
         ]
     },
-    {
+    "Fortify Health": {
         "name": "Fortify Health",
         "ingredients": [
             "Bear Claws",
@@ -1992,7 +1992,7 @@ var effs = [
             "Yellow Mountain Flower"
         ]
     },
-    {
+    "Fortify Heavy Armor": {
         "name": "Fortify Heavy Armor",
         "ingredients": [
             "Ice Wraith Teeth",
@@ -2002,7 +2002,7 @@ var effs = [
             "White Cap"
         ]
     },
-    {
+    "Fortify Illusion": {
         "name": "Fortify Illusion",
         "ingredients": [
             "Dragon's Tongue",
@@ -2012,7 +2012,7 @@ var effs = [
             "Taproot"
         ]
     },
-    {
+    "Fortify Light Armor": {
         "name": "Fortify Light Armor",
         "ingredients": [
             "Ash Hopper Jelly",
@@ -2024,7 +2024,7 @@ var effs = [
             "Skeever Tail"
         ]
     },
-    {
+    "Fortify Lockpicking": {
         "name": "Fortify Lockpicking",
         "ingredients": [
             "Ashen Grass Pod",
@@ -2034,7 +2034,7 @@ var effs = [
             "Spider Egg"
         ]
     },
-    {
+    "Fortify Magicka": {
         "name": "Fortify Magicka",
         "ingredients": [
             "Briar Heart",
@@ -2048,7 +2048,7 @@ var effs = [
             "Void Salts"
         ]
     },
-    {
+    "Fortify Marksman": {
         "name": "Fortify Marksman",
         "ingredients": [
             "Canis Root",
@@ -2057,7 +2057,7 @@ var effs = [
             "Spider Egg"
         ]
     },
-    {
+    "Fortify One-Handed": {
         "name": "Fortify One-Handed",
         "ingredients": [
             "Bear Claws",
@@ -2068,7 +2068,7 @@ var effs = [
             "Small Pearl"
         ]
     },
-    {
+    "Fortify Pickpocket": {
         "name": "Fortify Pickpocket",
         "ingredients": [
             "Blue Dartwing",
@@ -2077,7 +2077,7 @@ var effs = [
             "Slaughterfish Egg"
         ]
     },
-    {
+    "Fortify Restoration": {
         "name": "Fortify Restoration",
         "ingredients": [
             "Abecean Longfin",
@@ -2088,7 +2088,7 @@ var effs = [
             "Yellow Mountain Flower"
         ]
     },
-    {
+    "Fortify Smithing": {
         "name": "Fortify Smithing",
         "ingredients": [
             "Blisterwort",
@@ -2097,7 +2097,7 @@ var effs = [
             "Spriggan Sap"
         ]
     },
-    {
+    "Fortify Sneak": {
         "name": "Fortify Sneak",
         "ingredients": [
             "Abecean Longfin",
@@ -2110,7 +2110,7 @@ var effs = [
             "Purple Mountain Flower"
         ]
     },
-    {
+    "Fortify Stamina": {
         "name": "Fortify Stamina",
         "ingredients": [
             "Boar Tusk",
@@ -2122,7 +2122,7 @@ var effs = [
             "Torchbug Thorax"
         ]
     },
-    {
+    "Fortify Two-Handed": {
         "name": "Fortify Two-Handed",
         "ingredients": [
             "Dragon's Tongue",
@@ -2131,7 +2131,7 @@ var effs = [
             "Troll Fat"
         ]
     },
-    {
+    "Frenzy": {
         "name": "Frenzy",
         "ingredients": [
             "Blisterwort",
@@ -2143,7 +2143,7 @@ var effs = [
             "Troll Fat"
         ]
     },
-    {
+    "Invisibility": {
         "name": "Invisibility",
         "ingredients": [
             "Ash Creep Cluster",
@@ -2155,7 +2155,7 @@ var effs = [
             "Vampire Dust"
         ]
     },
-    {
+    "Lingering Damage Health": {
         "name": "Lingering Damage Health",
         "ingredients": [
             "Imp Stool",
@@ -2166,7 +2166,7 @@ var effs = [
             "Slaughterfish Scales"
         ]
     },
-    {
+    "Lingering Damage Magicka": {
         "name": "Lingering Damage Magicka",
         "ingredients": [
             "Hagraven Claw",
@@ -2176,7 +2176,7 @@ var effs = [
             "Wheat"
         ]
     },
-    {
+    "Lingering Damage Stamina": {
         "name": "Lingering Damage Stamina",
         "ingredients": [
             "Butterfly Wing",
@@ -2186,7 +2186,7 @@ var effs = [
             "Small Antlers"
         ]
     },
-    {
+    "Paralysis": {
         "name": "Paralysis",
         "ingredients": [
             "Briar Heart",
@@ -2198,7 +2198,7 @@ var effs = [
             "Swamp Fungal Pod"
         ]
     },
-    {
+    "Ravage Health": {
         "name": "Ravage Health",
         "ingredients": [
             "Cyrodilic Spadetail",
@@ -2210,7 +2210,7 @@ var effs = [
             "Skeever Tail"
         ]
     },
-    {
+    "Ravage Magicka": {
         "name": "Ravage Magicka",
         "ingredients": [
             "Frost Mirriam",
@@ -2223,7 +2223,7 @@ var effs = [
             "White Cap"
         ]
     },
-    {
+    "Ravage Stamina": {
         "name": "Ravage Stamina",
         "ingredients": [
             "Bee",
@@ -2236,7 +2236,7 @@ var effs = [
             "Thistle Branch"
         ]
     },
-    {
+    "Regenerate Health": {
         "name": "Regenerate Health",
         "ingredients": [
             "Emperor Parasol Moss",
@@ -2249,7 +2249,7 @@ var effs = [
             "Vampire Dust"
         ]
     },
-    {
+    "Regenerate Magicka": {
         "name": "Regenerate Magicka",
         "ingredients": [
             "Dwarven Oil",
@@ -2262,7 +2262,7 @@ var effs = [
             "Taproot"
         ]
     },
-    {
+    "Regenerate Stamina": {
         "name": "Regenerate Stamina",
         "ingredients": [
             "Bee",
@@ -2271,7 +2271,7 @@ var effs = [
             "Scaly Pholiota"
         ]
     },
-    {
+    "Resist Fire": {
         "name": "Resist Fire",
         "ingredients": [
             "Ash Creep Cluster",
@@ -2287,7 +2287,7 @@ var effs = [
             "Spawn Ash"
         ]
     },
-    {
+    "Resist Frost": {
         "name": "Resist Frost",
         "ingredients": [
             "Frost Mirriam",
@@ -2302,7 +2302,7 @@ var effs = [
             "Thistle Branch"
         ]
     },
-    {
+    "Resist Magic": {
         "name": "Resist Magic",
         "ingredients": [
             "Bleeding Crown",
@@ -2319,7 +2319,7 @@ var effs = [
             "Wisp Wrappings"
         ]
     },
-    {
+    "Resist Poison": {
         "name": "Resist Poison",
         "ingredients": [
             "Beehive Husk",
@@ -2334,7 +2334,7 @@ var effs = [
             "Yellow Mountain Flower"
         ]
     },
-    {
+    "Resist Shock": {
         "name": "Resist Shock",
         "ingredients": [
             "Ash Hopper Jelly",
@@ -2348,7 +2348,7 @@ var effs = [
             "Swamp Fungal Pod"
         ]
     },
-    {
+    "Restore Health": {
         "name": "Restore Health",
         "ingredients": [
             "Ash Hopper Jelly",
@@ -2366,7 +2366,7 @@ var effs = [
             "Wheat"
         ]
     },
-    {
+    "Restore Magicka": {
         "name": "Restore Magicka",
         "ingredients": [
             "Briar Heart",
@@ -2388,7 +2388,7 @@ var effs = [
             "White Cap"
         ]
     },
-    {
+    "Restore Stamina": {
         "name": "Restore Stamina",
         "ingredients": [
             "Bear Claws",
@@ -2414,7 +2414,7 @@ var effs = [
             "Wisp Wrappings"
         ]
     },
-    {
+    "Slow": {
         "name": "Slow",
         "ingredients": [
             "Burnt Spriggan Wood",
@@ -2426,7 +2426,7 @@ var effs = [
             "Trama Root"
         ]
     },
-    {
+    "Waterbreathing": {
         "name": "Waterbreathing",
         "ingredients": [
             "Chicken's Egg",
@@ -2436,7 +2436,7 @@ var effs = [
             "Salmon Roe"
         ]
     },
-    {
+    "Weakness to Fire": {
         "name": "Weakness to Fire",
         "ingredients": [
             "Bleeding Crown",
@@ -2448,7 +2448,7 @@ var effs = [
             "Powdered Mammoth Tusk"
         ]
     },
-    {
+    "Weakness to Frost": {
         "name": "Weakness to Frost",
         "ingredients": [
             "Abecean Longfin",
@@ -2459,7 +2459,7 @@ var effs = [
             "White Cap"
         ]
     },
-    {
+    "Weakness to Magic": {
         "name": "Weakness to Magic",
         "ingredients": [
             "Creep Cluster",
@@ -2472,7 +2472,7 @@ var effs = [
             "Torchbug Thorax"
         ]
     },
-    {
+    "Weakness to Poison": {
         "name": "Weakness to Poison",
         "ingredients": [
             "Abecean Longfin",
@@ -2485,7 +2485,7 @@ var effs = [
             "Small Antlers"
         ]
     },
-    {
+    "Weakness to Shock": {
         "name": "Weakness to Shock",
         "ingredients": [
             "Ashen Grass Pod",
@@ -2496,31 +2496,84 @@ var effs = [
             "Void Salts"
         ]
     }
-];
+};
 
-new Vue({
-    el: '#alchemy-app',
-    data: {
-        ingredients: ings,
-        effects: effs,
-        ingredientsQuery: '',
-        effectsQuery: '',
-        selectedIngredients: [],
-        selectedEffects: []
-    },
-    computed: {
-        filteredIngredients: function() {
-            var query = this.ingredientsQuery;
-            return this.ingredients.filter(function (ingredient) {
-                return String(ingredient.name).toLowerCase().indexOf(query) > -1;
-            });
-        },
-        filteredEffects: function() {
-            var query = this.effectsQuery;
-            return this.effects.filter(function (effect) {
-                return String(effect.name).toLowerCase().indexOf(query) > -1;
-            });
-        }
-    }
-});
 
+
+// var matchIngredients = function (ingredientA, ingredientB) {
+//     return ingredientA.effects.filter(function (effect) {
+//         return ingredientB.effects.indexOf(effect) !== -1
+//     });
+// };
+//
+// console.log(matchIngredients(ings['Bear Claws'], ings['Bee']));
+
+
+
+
+
+
+
+
+var selected = ["Bear Claws", "Bee", "Charred Skeever Hide", "Hawk Feathers"];
+
+
+
+
+var selectedIngredients = ings.filter(function (ingredient) {
+    return (selected.indexOf(ingredient.name) !== -1);
+},[]);
+
+console.log(selectedIngredients);
+
+// var thing = selectedIngredients.reduce(function (result, ingredientA) {
+//     selectedIngredients.filter(function (ingredientB) {
+//         if (ingredientA.name !== ingredientB.name) {
+//             var effects = ingredientA.effects.filter(function (effect) {
+//                 return ingredientB.effects.indexOf(effect) !== -1;
+//             });
+//
+//             result = result.concat(effects);
+//         }
+//
+//     });
+//     return result;
+// },[]);
+//
+// console.log(thing);
+
+
+
+
+
+
+
+
+
+
+
+
+//
+// var ingredients = ings.filter(function (ing) {
+//     return selected.indexOf(ing.name) !== -1;
+// });
+//
+//
+// var found = [];
+// ingredients.forEach(function (ingredient) {
+//     var effects = ingredient.effects;
+//     ingredients.forEach(function (otherIngredient) {
+//         effects.forEach(function (effect) {
+//             if (ingredient.name !== otherIngredient.name && otherIngredient.effects.indexOf(effect) !== -1) {
+//                 found.push({ingredients: [ingredient.name, otherIngredient.name], effect: effect});
+//             }
+//         })
+//     });
+// });
+//
+// console.log(found.reduce(function(p, c) {
+//     if (p.indexOf(c) < 0) {
+//         p.push(c);
+//     }
+//     return p;
+// }, []));

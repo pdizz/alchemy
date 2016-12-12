@@ -2498,29 +2498,66 @@ var effs = [
     }
 ];
 
-new Vue({
-    el: '#alchemy-app',
-    data: {
-        ingredients: ings,
-        effects: effs,
-        ingredientsQuery: '',
-        effectsQuery: '',
-        selectedIngredients: [],
-        selectedEffects: []
-    },
-    computed: {
-        filteredIngredients: function() {
-            var query = this.ingredientsQuery;
-            return this.ingredients.filter(function (ingredient) {
-                return String(ingredient.name).toLowerCase().indexOf(query) > -1;
-            });
-        },
-        filteredEffects: function() {
-            var query = this.effectsQuery;
-            return this.effects.filter(function (effect) {
-                return String(effect.name).toLowerCase().indexOf(query) > -1;
+var arrayIntersect = function(a, b) {
+    return a.filter(function (e) {
+        return b.indexOf(e) !== -1;
+    });
+};
+
+// http://stackoverflow.com/a/4061198/958490
+// Function to get combinations of items in array up to a certain length (choose)
+// way faster and eliminates need for array comparisons and sorting everywhere
+var combinations = function (arr, choose) {
+    var n = arr.length;
+    var c = [];
+    var results = [];
+    var inner = function(start, choose_) {
+        if (choose_ == 0) {
+            // have to clone the array since it changes on the next iteration
+            results.push(c.slice(0));
+        } else {
+            for (var i = start; i <= n - choose_; ++i) {
+                c.push(arr[i]);
+                inner(i + 1, choose_ - 1);
+                c.pop();
+            }
+        }
+    };
+    inner(0, choose);
+    return results;
+};
+
+// var selected = ['Blisterwort', 'Blue Dartwing', 'Butterfly Wing'];
+// ings = ings.filter(function (ingredient) {
+//     return selected.indexOf(ingredient.name) !== -1;
+// });
+
+var findRecipes = function (ingredients) {
+    // Skyrim allows combining 2 or 3 distinct ingredients to make a potion
+    var combos = combinations(ings, 2).concat(combinations(ings, 3));
+    var recipes = [];
+
+    combos.forEach(function (recipe) {
+        var ingCombos = combinations(recipe, 2);
+        var matched = [];
+        ingCombos.forEach(function (combo) {
+            matched = matched.concat(arrayIntersect(combo[0].effects, combo[1].effects));
+        });
+
+        if (matched.length) {
+            recipes.push({
+                ingredients: recipe, effects: matched
             });
         }
-    }
+    });
+
+    return recipes;
+};
+
+var pretty = findRecipes(ings).map(function (recipe) {
+    return {ingredients: recipe.ingredients.map(function (ingredient) {return ingredient.name}), effects: recipe.effects}
 });
+
+console.log(JSON.stringify(pretty, null, 2));
+
 
