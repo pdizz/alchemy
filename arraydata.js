@@ -2504,6 +2504,13 @@ var arrayIntersect = function(a, b) {
     });
 };
 
+var arrayUnique = function(a) {
+    return a.reduce(function(p, c) {
+        if (p.indexOf(c) < 0) p.push(c);
+        return p;
+    }, []);
+};
+
 // http://stackoverflow.com/a/4061198/958490
 // Function to get combinations of items in array up to a certain length (choose)
 // way faster and eliminates need for array comparisons and sorting everywhere
@@ -2527,31 +2534,36 @@ var combinations = function (arr, choose) {
     return results;
 };
 
-// var selected = ['Blisterwort', 'Blue Dartwing', 'Butterfly Wing'];
-// ings = ings.filter(function (ingredient) {
-//     return selected.indexOf(ingredient.name) !== -1;
-// });
+var selected = ['Deathbell', 'Pine Thrush Egg', 'River Betty'];
+ings = ings.filter(function (ingredient) {
+    return selected.indexOf(ingredient.name) !== -1;
+});
+
+var matchIngredients = function (ingredients) {
+    var ingCombos = combinations(ingredients, 2);
+    var matched = [];
+    ingCombos.forEach(function (combo) {
+        matched = matched.concat(arrayIntersect(combo[0].effects, combo[1].effects));
+    });
+
+    return arrayUnique(matched);
+};
 
 var findRecipes = function (ingredients) {
     // Skyrim allows combining 2 or 3 distinct ingredients to make a potion
-    var combos = combinations(ings, 2).concat(combinations(ings, 3));
-    var recipes = [];
+    var combos = combinations(ingredients, 2).concat(combinations(ingredients, 3));
 
-    combos.forEach(function (recipe) {
-        var ingCombos = combinations(recipe, 2);
-        var matched = [];
-        ingCombos.forEach(function (combo) {
-            matched = matched.concat(arrayIntersect(combo[0].effects, combo[1].effects));
-        });
-
-        if (matched.length) {
-            recipes.push({
-                ingredients: recipe, effects: matched
-            });
-        }
+    var recipes = combos.map(function(combo) {
+        return {
+            ingredients: combo,
+            effects: matchIngredients(combo)
+        };
     });
 
-    return recipes;
+    // Only return valid combos
+    return recipes.filter(function (recipe) {
+        return recipe.effects.length > 0;
+    })
 };
 
 var pretty = findRecipes(ings).map(function (recipe) {
