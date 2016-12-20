@@ -68,12 +68,15 @@ var findRecipes = function (ingredients) {
 };
 
 var findRecipesTests = [
-    // {
-    //     ingredients: ['Blue Mountain Flower', 'Wheat'],
-    //     recipes: [
-    //         ['Restore Health', 'Fortify Health']
-    //     ]
-    // },
+    {
+        ingredients: ['Blue Mountain Flower', 'Wheat'],
+        recipes: [
+            {
+                ingredients: ['Blue Mountain Flower', 'Wheat'],
+                effects: ['Restore Health', 'Fortify Health']
+            }
+        ]
+    },
     {
         ingredients: ['Deathbell', 'Pine Thrush Egg', 'River Betty'],
         recipes: [
