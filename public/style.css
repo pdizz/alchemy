@@ -1,7 +1,15 @@
-#ingredientsList {
-    float: left;
+.page-wrap {
+    display: flex;
+    flex-direction: row;
 }
 
-#effectsList {
-    float: right;
+input {
+    display: block;
+    font-size: large;
+}
+
+select {
+    height: 90%;
+    width: 100%;
+    font-size: large;
 }
