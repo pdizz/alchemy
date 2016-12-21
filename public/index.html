@@ -3,24 +3,39 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <div id="alchemy-app">
-        <div id="ingredientsList">
+    <div id="alchemy-app" class="page-wrap">
+        <div id="ingredients-list">
         <input name="thing" v-model="ingredientsQuery" placeholder="query ingredients">
         <select v-model="selectedIngredients" multiple>
-            <option v-for="ingredient in filteredIngredients" v-bind:value="ingredient.name" v-bind:title="ingredient.effects.join('\n')">
+            <option v-for="ingredient in filteredIngredients" v-bind:value="ingredient" v-bind:title="ingredient.effects.join('\n')">
                 {{ ingredient.name }}
             </option>
         </select>
         </div>
 
-        <div id="effectsList">
-        <input name="thing" v-model="effectsQuery" placeholder="query effects">
-        <select v-model="selectedEffects" multiple>
-            <option v-for="effect in filteredEffects" v-bind:value="effect.name" v-bind:title="effect.ingredients.join('\n')">
-                {{ effect.name }}
-            </option>
-        </select>
+        <div id="recipe-list">
+            <ul>
+                <template v-for="recipe in foundRecipes">
+                <li v-if="recipe.ingredients.length === 2">
+                    <b>{{ recipe.ingredients[0].name }} + {{ recipe.ingredients[1].name }}</b>
+                    <p>{{ recipe.effects.join(', ') }}</p>
+                </li>
+                <li v-else>
+                    <b>{{ recipe.ingredients[0].name }} + {{ recipe.ingredients[1].name }} + {{ recipe.ingredients[2].name }}</b>
+                    <p>{{ recipe.effects.join(', ') }}</p>
+                </li>
+                </template>
+            </ul>
         </div>
+
+        <!--<div id="effects-list">-->
+        <!--<input name="thing" v-model="effectsQuery" placeholder="query effects">-->
+        <!--<select v-model="selectedEffects" multiple>-->
+            <!--<option v-for="effect in filteredEffects" v-bind:value="effect" v-bind:title="effect.ingredients.join('\n')">-->
+                <!--{{ effect.name }}-->
+            <!--</option>-->
+        <!--</select>-->
+        <!--</div>-->
 
     </div>
 
