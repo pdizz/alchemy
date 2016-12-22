@@ -12,4 +12,9 @@ select {
     height: 90%;
     width: 100%;
     font-size: large;
+    color: grey;
+}
+
+.matchesSelected {
+    color: black;
 }

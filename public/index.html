@@ -7,7 +7,12 @@
         <div id="ingredients-list">
         <input name="thing" v-model="ingredientsQuery" placeholder="query ingredients">
         <select v-model="selectedIngredients" multiple>
-            <option v-for="ingredient in ingredients" v-show="filteredIngredients.indexOf(ingredient) !== -1" v-bind:value="ingredient" v-bind:title="ingredient.effects.join('\n')">
+            <option
+                v-for="ingredient in ingredients"
+                v-show="filteredIngredients.indexOf(ingredient) !== -1"
+                v-bind:value="ingredient"
+                v-bind:title="ingredient.effects.join('\n')"
+                v-bind:class="{ matchesSelected: matchesSelected(ingredient) }">
                 {{ ingredient.name }}
             </option>
         </select>
@@ -17,12 +22,15 @@
             <ul>
                 <template v-for="recipe in foundRecipes">
                 <li v-if="recipe.ingredients.length === 2">
-                    <b>{{ recipe.ingredients[0].name }} + {{ recipe.ingredients[1].name }}</b>
+                    <span v-bind:title="recipe.ingredients[0].effects.join('\n')">{{ recipe.ingredients[0].name }}</span> +
+                    <span v-bind:title="recipe.ingredients[1].effects.join('\n')">{{ recipe.ingredients[1].name }}</span>
                     <p>{{ recipe.effects.join(', ') }}</p>
                 </li>
                 <li v-else>
-                    <b>{{ recipe.ingredients[0].name }} + {{ recipe.ingredients[1].name }} + {{ recipe.ingredients[2].name }}</b>
-                    <p>{{ recipe.effects.join(', ') }}</p>
+                    <span v-bind:title="recipe.ingredients[0].effects.join('\n')">{{ recipe.ingredients[0].name }}</span> +
+                    <span v-bind:title="recipe.ingredients[1].effects.join('\n')">{{ recipe.ingredients[1].name }}</span> +
+                    <span v-bind:title="recipe.ingredients[2].effects.join('\n')">{{ recipe.ingredients[2].name }}</span>
+                    {{ recipe.effects.join(', ') }}
                 </li>
                 </template>
             </ul>
