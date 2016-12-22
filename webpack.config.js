@@ -4,18 +4,20 @@ module.exports = {
     output: {
         filename: './public/alchemy.js'
     },
-    loaders: [
-        {
-            test: /\.json$/,
-            loader: 'json'
-        },
-        // {
-        //     test: /\.js$/,
-        //     exclude: /(node_modules)/,
-        //     loader: 'babel-loader',
-        //     query: {
-        //         presets: ['es2015']
-        //     }
-        // }
-    ]
+    module: {
+        loaders: [
+            {
+                test: /\.json$/,
+                loader: 'json'
+            },
+            {
+                test: /\.js$/,
+                exclude: /(node_modules)/,
+                loader: 'babel-loader',
+                query: {
+                    presets: ['es2015']
+                }
+            }
+        ]
+    }
 };

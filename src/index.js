@@ -1,6 +1,7 @@
-const ings   = require('json-loader!../data/skyrim-ingredients.json');
-const effs   = require('json-loader!../data/skyrim-effects.json');
-const recipe = require('../src/recipe.js');
+import ings from '../data/skyrim-ingredients.json';
+import effs from '../data/skyrim-effects.json';
+import recipe from '../src/recipe.js';
+
 
 Vue.config.errorHandler = function (err, vm) {
     console.log(err, vm);
