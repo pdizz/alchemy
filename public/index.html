@@ -30,7 +30,7 @@
                     <span v-bind:title="recipe.ingredients[0].effects.join('\n')">{{ recipe.ingredients[0].name }}</span> +
                     <span v-bind:title="recipe.ingredients[1].effects.join('\n')">{{ recipe.ingredients[1].name }}</span> +
                     <span v-bind:title="recipe.ingredients[2].effects.join('\n')">{{ recipe.ingredients[2].name }}</span>
-                    {{ recipe.effects.join(', ') }}
+                    <p>{{ recipe.effects.join(', ') }}</p>
                 </li>
                 </template>
             </ul>
